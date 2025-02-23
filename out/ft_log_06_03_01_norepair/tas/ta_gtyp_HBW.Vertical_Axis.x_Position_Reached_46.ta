@@ -1,0 +1,4 @@
+S0 -> S1 [label="gtyp_hbw.vertical_axis.x_position_reached_false [0.0, 0.0] t[0.0, 0.0] p=0.33"]
+S0 -> S2 [label="gtyp_hbw.vertical_axis.x_position_reached_true [0.0, 0.0] t[0.0, 0.0] p=0.67"]
+S1 -> S2 [label="gtyp_hbw.vertical_axis.x_position_reached_true [5.0, 9961.0] t[5.0, 10014.0] p=1.0"]
+S2 -> S1 [label="gtyp_hbw.vertical_axis.x_position_reached_false [3.0, 28.0] t[3.0, 58.0] p=1.0"]

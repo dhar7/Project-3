@@ -1,0 +1,518 @@
+========== PREPARATION PHASE STARTED ==========
+Parsing file 2019-04-22.json
+Parsing file 2019-04-23.json
+Parsing file 2019-04-24.json
+Parsing file 2019-04-25.json
+Parsing file 2019-04-26.json
+Parsing file 2019-04-27.json
+Parsing file 2019-04-28.json
+Parsing file 2019-04-29.json
+Parsing file 2019-04-30.json
+Parsing file 2019-05-01.json
+Parsing file 2019-05-02.json
+Parsing file 2019-05-03.json
+Parsing file 2019-05-04.json
+Parsing file 2019-05-05.json
+Parsing file 2019-05-06.json
+Parsing file 2019-05-07.json
+Parsing file 2019-05-08.json
+Parsing file 2019-05-09.json
+Parsing file 2019-05-10.json
+Parsing file 2019-05-11.json
+Parsing file 2019-05-12.json
+Parsing file 2019-05-13.json
+Parsing file 2019-05-14.json
+Parsing file 2019-05-15.json
+Parsing file 2019-05-16.json
+Parsing file 2019-05-17.json
+Parsing file 2019-05-18.json
+Parsing file 2019-05-19.json
+Parsing file 2019-05-20.json
+Parsing file 2019-05-21.json
+Parsing file 2019-05-22.json
+Parsing file 2019-05-23.json
+Parsing file 2019-05-24.json
+Parsing file 2019-05-25.json
+Parsing file 2019-05-26.json
+Parsing file 2019-05-27.json
+Parsing file 2019-05-28.json
+Parsing file 2019-05-29.json
+Parsing file 2019-05-30.json
+Parsing file 2019-05-31.json
+Parsing file 2019-06-01.json
+Parsing file 2019-06-02.json
+Parsing file 2019-06-03.json
+Parsing file 2019-06-04.json
+Parsing file 2019-06-05.json
+Parsing file 2019-06-06.json
+Parsing file 2019-06-07.json
+Parsing file 2019-06-08.json
+Parsing file 2019-06-09.json
+Parsing file 2019-06-10.json
+Parsing file 2019-06-11.json
+Parsing file 2019-06-12.json
+Parsing file 2019-06-13.json
+Parsing file 2019-06-14.json
+Parsing file 2019-06-15.json
+Metrics generated. Progress: 1/6 Tasks
+Discretization done. Progress: 2/6 Tasks
+Events extracted. Progress: 3/6 Tasks
+Context separation done. Progress: 4/6 Tasks
+Zero-timed events merged, writing to file. Progress: 6.0/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.1/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.2/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.3/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.4/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.5/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.6/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.7/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.8/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.9/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.10/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.11/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.12/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.13/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.14/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.15/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.16/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.17/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.18/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.19/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.20/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.21/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.22/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.23/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.24/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.25/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.26/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.27/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.28/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.29/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.30/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.31/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.32/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.33/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.34/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.35/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.36/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.37/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.38/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.39/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.40/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.41/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.42/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.43/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.44/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.45/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.46/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.47/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.48/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.49/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.50/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.51/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.52/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.53/6.54 Tasks
+Zero-timed events merged, writing to file. Progress: 6.54/6.54 Tasks
+Ignoring Door_contact_sensor_battery: train_idx: 0, test_idx: 1
+Ignoring Hue_ACC788_DeviceWatch-DeviceStatus: train_idx: 0, test_idx: 1
+Ignoring Hue_ambiance_lamp_1_DeviceWatch-DeviceStatus: train_idx: 0, test_idx: 1
+Ignoring Hue_ambiance_lamp_1_colorTemperature: train_idx: 4, test_idx: 5
+Ignoring Hue_ambiance_lamp_1_level: train_idx: 4, test_idx: 5
+Ignoring Hue_ambiance_lamp_2_DeviceWatch-DeviceStatus: train_idx: 4, test_idx: 5
+Ignoring Hue_bloom_1_DeviceWatch-DeviceStatus: train_idx: 1, test_idx: 2
+Ignoring Hue_bloom_1_color: train_idx: 4, test_idx: 5
+Ignoring Hue_bloom_1_hue: train_idx: 4, test_idx: 5
+Ignoring Hue_bloom_1_level: train_idx: 4, test_idx: 5
+Ignoring Hue_bloom_1_saturation: train_idx: 3, test_idx: 4
+Ignoring Hue_lightstrip_plus_1_DeviceWatch-DeviceStatus: train_idx: 0, test_idx: 1
+Ignoring Hue_lightstrip_plus_1_level: train_idx: 4, test_idx: 5
+Ignoring Hue_lightstrip_plus_2_DeviceWatch-DeviceStatus: train_idx: 0, test_idx: 1
+Ignoring Hue_lightstrip_plus_2_color: train_idx: 3, test_idx: 4
+Ignoring Hue_lightstrip_plus_2_colorTemperature: train_idx: 4, test_idx: 5
+Ignoring Hue_lightstrip_plus_2_hue: train_idx: 4, test_idx: 5
+Ignoring Hue_lightstrip_plus_2_level: train_idx: 4, test_idx: 5
+Ignoring Hue_lightstrip_plus_2_saturation: train_idx: 3, test_idx: 4
+Ignoring Kettle_DeviceWatch-DeviceStatus: train_idx: 0, test_idx: 1
+Ignoring Kettle_switch: train_idx: 0, test_idx: 1
+Ignoring Lamp_DeviceWatch-DeviceStatus: train_idx: 0, test_idx: 1
+Ignoring Round_lamp_1_color: train_idx: 3, test_idx: 4
+Ignoring Round_lamp_1_colorTemperature: train_idx: 3, test_idx: 4
+Ignoring Round_lamp_1_hue: train_idx: 3, test_idx: 4
+Ignoring Round_lamp_1_saturation: train_idx: 2, test_idx: 3
+Ignoring Square_lamp_1_DeviceWatch-DeviceStatus: train_idx: 0, test_idx: 1
+Ignoring Square_lamp_1_color: train_idx: 4, test_idx: 5
+Ignoring Square_lamp_1_hue: train_idx: 3, test_idx: 4
+Ignoring Square_lamp_1_level: train_idx: 4, test_idx: 5
+Ignoring Square_lamp_1_saturation: train_idx: 3, test_idx: 4
+Ignoring Unknown_temperature: train_idx: 1, test_idx: 2
+========== PREPARATION PHASE ENDED ==========
+========== TA 0 / Context: Blase's_Smartphone_occupancy GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+Cost: 20/6 = 3.3333333333333335	Path length:7
+Number of edges added: 2
+TA Statistics:
+	States: 5	Edges: 7
+	TA 0 / Context: Blase's_Smartphone_occupancy GENERATION ENDED
+	TA 0 / Context: Blase's_Smartphone_occupancy SCORING STARTED
+Cost: 0/2 = 0.0	Path length:3
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 4
+========== TA 0 / Context: Blase's_Smartphone_occupancy SCORING ENDED ==========
+========== TA 1 / Context: Blase's_Smartphone_presence GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 1 / Context: Blase's_Smartphone_presence GENERATION ENDED
+	TA 1 / Context: Blase's_Smartphone_presence SCORING STARTED
+Cost: 0/4 = 0.0	Path length:5
+Cost: 1/2 = 0.5	Path length:3
+	 ACCURACY SCORE: 0.8333333333333334	TIME SKEW: inf NUMBER OF VIOLATIONS: 6
+========== TA 1 / Context: Blase's_Smartphone_presence SCORING ENDED ==========
+========== TA 2 / Context: Door_contact_sensor_acceleration GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+Cost: 0/18 = 0.0	Path length:19
+Number of edges added: 0
+Cost: 0/22 = 0.0	Path length:23
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 2 / Context: Door_contact_sensor_acceleration GENERATION ENDED
+	TA 2 / Context: Door_contact_sensor_acceleration SCORING STARTED
+Cost: 0/20 = 0.0	Path length:21
+Cost: 0/20 = 0.0	Path length:21
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 40
+========== TA 2 / Context: Door_contact_sensor_acceleration SCORING ENDED ==========
+========== TA 3 / Context: Door_contact_sensor_contact GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 2/54 = 0.037037037037037035	Path length:55
+Number of edges added: 2
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+Cost: 1/42 = 0.023809523809523808	Path length:43
+Number of edges added: 1
+Cost: 0/90 = 0.0	Path length:91
+Number of edges added: 0
+TA Statistics:
+	States: 24	Edges: 62
+	TA 3 / Context: Door_contact_sensor_contact GENERATION ENDED
+	TA 3 / Context: Door_contact_sensor_contact SCORING STARTED
+Cost: 1/92 = 0.010869565217391304	Path length:93
+Cost: 0/82 = 0.0	Path length:83
+Cost: 0/38 = 0.0	Path length:39
+	 ACCURACY SCORE: 0.9952830188679245	TIME SKEW: inf NUMBER OF VIOLATIONS: 212
+========== TA 3 / Context: Door_contact_sensor_contact SCORING ENDED ==========
+========== TA 4 / Context: Door_contact_sensor_temperature GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 1/21 = 0.047619047619047616	Path length:22
+Number of edges added: 1
+Cost: 1/7 = 0.14285714285714285	Path length:8
+Number of edges added: 1
+Cost: 1/7 = 0.14285714285714285	Path length:8
+Number of edges added: 1
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+TA Statistics:
+	States: 38	Edges: 61
+	TA 4 / Context: Door_contact_sensor_temperature GENERATION ENDED
+	TA 4 / Context: Door_contact_sensor_temperature SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/4 = 0.0	Path length:5
+Cost: 0/6 = 0.0	Path length:7
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 22
+========== TA 4 / Context: Door_contact_sensor_temperature SCORING ENDED ==========
+========== TA 5 / Context: Door_contact_sensor_threeAxis GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 1/4 = 0.25	Path length:5
+Number of edges added: 1
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 24	Edges: 43
+	TA 5 / Context: Door_contact_sensor_threeAxis GENERATION ENDED
+	TA 5 / Context: Door_contact_sensor_threeAxis SCORING STARTED
+Cost: 1/14 = 0.07142857142857142	Path length:15
+Cost: 3/14 = 0.21428571428571427	Path length:15
+Cost: 3/41 = 0.07317073170731707	Path length:42
+	 ACCURACY SCORE: 0.8985507246376812	TIME SKEW: inf NUMBER OF VIOLATIONS: 66
+========== TA 5 / Context: Door_contact_sensor_threeAxis SCORING ENDED ==========
+========== TA 6 / Context: Hue_ambiance_lamp_1_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/110 = 0.0	Path length:111
+Number of edges added: 0
+Cost: 1/31 = 0.03225806451612903	Path length:32
+Number of edges added: 1
+Cost: 0/12 = 0.0	Path length:13
+Number of edges added: 0
+TA Statistics:
+	States: 24	Edges: 53
+	TA 6 / Context: Hue_ambiance_lamp_1_switch GENERATION ENDED
+	TA 6 / Context: Hue_ambiance_lamp_1_switch SCORING STARTED
+Cost: 0/49 = 0.0	Path length:50
+Cost: 1/56 = 0.017857142857142856	Path length:57
+	 ACCURACY SCORE: 0.9904761904761905	TIME SKEW: inf NUMBER OF VIOLATIONS: 105
+========== TA 6 / Context: Hue_ambiance_lamp_1_switch SCORING ENDED ==========
+========== TA 7 / Context: Hue_ambiance_lamp_2_colorTemperature GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/22 = 0.0	Path length:23
+Number of edges added: 0
+TA Statistics:
+	States: 4	Edges: 5
+	TA 7 / Context: Hue_ambiance_lamp_2_colorTemperature GENERATION ENDED
+	TA 7 / Context: Hue_ambiance_lamp_2_colorTemperature SCORING STARTED
+Cost: 3/6 = 0.5	Path length:7
+	 ACCURACY SCORE: 0.5	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 7 / Context: Hue_ambiance_lamp_2_colorTemperature SCORING ENDED ==========
+========== TA 8 / Context: Hue_ambiance_lamp_2_level GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+TA Statistics:
+	States: 6	Edges: 6
+	TA 8 / Context: Hue_ambiance_lamp_2_level GENERATION ENDED
+	TA 8 / Context: Hue_ambiance_lamp_2_level SCORING STARTED
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 2
+========== TA 8 / Context: Hue_ambiance_lamp_2_level SCORING ENDED ==========
+========== TA 9 / Context: Hue_ambiance_lamp_2_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/106 = 0.0	Path length:107
+Number of edges added: 0
+Cost: 0/26 = 0.0	Path length:27
+Number of edges added: 0
+Cost: 0/10 = 0.0	Path length:11
+Number of edges added: 0
+TA Statistics:
+	States: 26	Edges: 46
+	TA 9 / Context: Hue_ambiance_lamp_2_switch GENERATION ENDED
+	TA 9 / Context: Hue_ambiance_lamp_2_switch SCORING STARTED
+Cost: 0/44 = 0.0	Path length:45
+Cost: 0/53 = 0.0	Path length:54
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 97
+========== TA 9 / Context: Hue_ambiance_lamp_2_switch SCORING ENDED ==========
+========== TA 10 / Context: Hue_bloom_1_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/110 = 0.0	Path length:111
+Number of edges added: 0
+Cost: 1/31 = 0.03225806451612903	Path length:32
+Number of edges added: 1
+Cost: 0/12 = 0.0	Path length:13
+Number of edges added: 0
+TA Statistics:
+	States: 24	Edges: 53
+	TA 10 / Context: Hue_bloom_1_switch GENERATION ENDED
+	TA 10 / Context: Hue_bloom_1_switch SCORING STARTED
+Cost: 0/49 = 0.0	Path length:50
+Cost: 1/56 = 0.017857142857142856	Path length:57
+	 ACCURACY SCORE: 0.9904761904761905	TIME SKEW: inf NUMBER OF VIOLATIONS: 105
+========== TA 10 / Context: Hue_bloom_1_switch SCORING ENDED ==========
+========== TA 11 / Context: Hue_lightstrip_plus_1_color GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+TA Statistics:
+	States: 10	Edges: 19
+	TA 11 / Context: Hue_lightstrip_plus_1_color GENERATION ENDED
+	TA 11 / Context: Hue_lightstrip_plus_1_color SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 11 / Context: Hue_lightstrip_plus_1_color SCORING ENDED ==========
+========== TA 12 / Context: Hue_lightstrip_plus_1_colorTemperature GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/17 = 0.0	Path length:18
+Number of edges added: 0
+TA Statistics:
+	States: 8	Edges: 14
+	TA 12 / Context: Hue_lightstrip_plus_1_colorTemperature GENERATION ENDED
+	TA 12 / Context: Hue_lightstrip_plus_1_colorTemperature SCORING STARTED
+Cost: 3/13 = 0.23076923076923078	Path length:14
+	 ACCURACY SCORE: 0.7692307692307692	TIME SKEW: inf NUMBER OF VIOLATIONS: 13
+========== TA 12 / Context: Hue_lightstrip_plus_1_colorTemperature SCORING ENDED ==========
+========== TA 13 / Context: Hue_lightstrip_plus_1_hue GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+TA Statistics:
+	States: 13	Edges: 13
+	TA 13 / Context: Hue_lightstrip_plus_1_hue GENERATION ENDED
+	TA 13 / Context: Hue_lightstrip_plus_1_hue SCORING STARTED
+Cost: 2/3 = 0.6666666666666666	Path length:4
+	 ACCURACY SCORE: 0.33333333333333337	TIME SKEW: inf NUMBER OF VIOLATIONS: 2
+========== TA 13 / Context: Hue_lightstrip_plus_1_hue SCORING ENDED ==========
+========== TA 14 / Context: Hue_lightstrip_plus_1_saturation GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 1/12 = 0.08333333333333333	Path length:13
+Number of edges added: 1
+TA Statistics:
+	States: 13	Edges: 22
+	TA 14 / Context: Hue_lightstrip_plus_1_saturation GENERATION ENDED
+	TA 14 / Context: Hue_lightstrip_plus_1_saturation SCORING STARTED
+Cost: 0/23 = 0.0	Path length:24
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 22
+========== TA 14 / Context: Hue_lightstrip_plus_1_saturation SCORING ENDED ==========
+========== TA 15 / Context: Hue_lightstrip_plus_1_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/106 = 0.0	Path length:107
+Number of edges added: 0
+Cost: 0/26 = 0.0	Path length:27
+Number of edges added: 0
+Cost: 0/10 = 0.0	Path length:11
+Number of edges added: 0
+TA Statistics:
+	States: 9	Edges: 22
+	TA 15 / Context: Hue_lightstrip_plus_1_switch GENERATION ENDED
+	TA 15 / Context: Hue_lightstrip_plus_1_switch SCORING STARTED
+Cost: 0/48 = 0.0	Path length:49
+Cost: 0/53 = 0.0	Path length:54
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 101
+========== TA 15 / Context: Hue_lightstrip_plus_1_switch SCORING ENDED ==========
+========== TA 16 / Context: Hue_lightstrip_plus_2_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/106 = 0.0	Path length:107
+Number of edges added: 0
+Cost: 0/26 = 0.0	Path length:27
+Number of edges added: 0
+Cost: 0/10 = 0.0	Path length:11
+Number of edges added: 0
+TA Statistics:
+	States: 38	Edges: 73
+	TA 16 / Context: Hue_lightstrip_plus_2_switch GENERATION ENDED
+	TA 16 / Context: Hue_lightstrip_plus_2_switch SCORING STARTED
+Cost: 0/43 = 0.0	Path length:44
+Cost: 0/53 = 0.0	Path length:54
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 96
+========== TA 16 / Context: Hue_lightstrip_plus_2_switch SCORING ENDED ==========
+========== TA 17 / Context: Lamp_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/17 = 0.0	Path length:18
+Number of edges added: 0
+Cost: 0/52 = 0.0	Path length:53
+Number of edges added: 0
+TA Statistics:
+	States: 17	Edges: 34
+	TA 17 / Context: Lamp_switch GENERATION ENDED
+	TA 17 / Context: Lamp_switch SCORING STARTED
+Cost: 1/40 = 0.025	Path length:41
+	 ACCURACY SCORE: 0.975	TIME SKEW: inf NUMBER OF VIOLATIONS: 39
+========== TA 17 / Context: Lamp_switch SCORING ENDED ==========
+========== TA 18 / Context: Round_lamp_1_level GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+TA Statistics:
+	States: 5	Edges: 4
+	TA 18 / Context: Round_lamp_1_level GENERATION ENDED
+	TA 18 / Context: Round_lamp_1_level SCORING STARTED
+Cost: 1/2 = 0.5	Path length:3
+	 ACCURACY SCORE: 0.5	TIME SKEW: inf NUMBER OF VIOLATIONS: 1
+========== TA 18 / Context: Round_lamp_1_level SCORING ENDED ==========
+========== TA 19 / Context: Round_lamp_1_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/106 = 0.0	Path length:107
+Number of edges added: 0
+Cost: 0/26 = 0.0	Path length:27
+Number of edges added: 0
+Cost: 0/10 = 0.0	Path length:11
+Number of edges added: 0
+TA Statistics:
+	States: 38	Edges: 73
+	TA 19 / Context: Round_lamp_1_switch GENERATION ENDED
+	TA 19 / Context: Round_lamp_1_switch SCORING STARTED
+Cost: 0/43 = 0.0	Path length:44
+Cost: 0/53 = 0.0	Path length:54
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 96
+========== TA 19 / Context: Round_lamp_1_switch SCORING ENDED ==========
+========== TA 20 / Context: Square_lamp_1_colorTemperature GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 9/26 = 0.34615384615384615	Path length:27
+Number of edges added: 9
+TA Statistics:
+	States: 3	Edges: 12
+	TA 20 / Context: Square_lamp_1_colorTemperature GENERATION ENDED
+	TA 20 / Context: Square_lamp_1_colorTemperature SCORING STARTED
+Cost: 2/20 = 0.1	Path length:21
+	 ACCURACY SCORE: 0.9	TIME SKEW: inf NUMBER OF VIOLATIONS: 19
+========== TA 20 / Context: Square_lamp_1_colorTemperature SCORING ENDED ==========
+========== TA 21 / Context: Square_lamp_1_switch GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/110 = 0.0	Path length:111
+Number of edges added: 0
+Cost: 1/31 = 0.03225806451612903	Path length:32
+Number of edges added: 1
+Cost: 0/12 = 0.0	Path length:13
+Number of edges added: 0
+TA Statistics:
+	States: 24	Edges: 53
+	TA 21 / Context: Square_lamp_1_switch GENERATION ENDED
+	TA 21 / Context: Square_lamp_1_switch SCORING STARTED
+Cost: 0/49 = 0.0	Path length:50
+Cost: 1/56 = 0.017857142857142856	Path length:57
+	 ACCURACY SCORE: 0.9904761904761905	TIME SKEW: inf NUMBER OF VIOLATIONS: 105
+========== TA 21 / Context: Square_lamp_1_switch SCORING ENDED ==========
+========== TA 22 / Context: Unknown_motion GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/60 = 0.0	Path length:61
+Number of edges added: 0
+Cost: 0/233 = 0.0	Path length:234
+Number of edges added: 0
+Cost: 0/303 = 0.0	Path length:304
+Number of edges added: 0
+Cost: 0/171 = 0.0	Path length:172
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 3
+	TA 22 / Context: Unknown_motion GENERATION ENDED
+	TA 22 / Context: Unknown_motion SCORING STARTED
+Cost: 0/241 = 0.0	Path length:242
+Cost: 0/98 = 0.0	Path length:99
+Cost: 0/116 = 0.0	Path length:117
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 455
+========== TA 22 / Context: Unknown_motion SCORING ENDED ==========
+AUTOGEN FINISHED
+TOTAL NUMBER OF EVENTS: 1633	NUMBER OF VIOLATIONS: 1620
+AVERAGE SCORE: 0.9853031230863442
+	Histogram:
+[1.0, 0.8333333333333334, 1.0, 0.9952830188679245, 1.0, 0.8985507246376812, 0.9904761904761905, 0.5, 1.0, 1.0, 0.9904761904761905, 1.0, 0.7692307692307692, 0.33333333333333337, 1.0, 1.0, 1.0, 0.975, 0.5, 1.0, 0.9, 0.9904761904761905, 1.0]

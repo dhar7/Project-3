@@ -1,0 +1,4 @@
+S0 -> S1 [label="gtyp_vgr.x_hbw_outsource_false [0.0, 0.0] t[0.0, 0.0] p=0.05"]
+S0 -> S2 [label="gtyp_vgr.x_hbw_outsource_true [0.0, 0.0] t[0.0, 0.0] p=0.95"]
+S1 -> S2 [label="gtyp_vgr.x_hbw_outsource_true [1520.0, 14369.0] t[1520.0, 14396.0] p=1.0"]
+S2 -> S1 [label="gtyp_vgr.x_hbw_outsource_false [25.0, 31.0] t[25.0, 4055.0] p=1.0"]

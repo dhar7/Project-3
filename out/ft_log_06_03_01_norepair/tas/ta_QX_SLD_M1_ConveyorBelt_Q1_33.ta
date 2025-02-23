@@ -1,0 +1,2 @@
+S0 -> S1 [label="qx_sld_m1_conveyorbelt_q1_false [0.0, 10.0] t[0.0, 3697.0] p=1.0"]
+S1 -> S0 [label="qx_sld_m1_conveyorbelt_q1_true [87.0, 3590.0] t[87.0, 3687.0] p=1.0"]

@@ -1,0 +1,2 @@
+S0 -> S1 [label="ix_vgr_refswitchrotate_i3_false [0.0, 13433.0] t[0.0, 13585.0] p=1.0"]
+S1 -> S0 [label="ix_vgr_refswitchrotate_i3_true [57.0, 3574.0] t[71.0, 4099.0] p=1.0"]

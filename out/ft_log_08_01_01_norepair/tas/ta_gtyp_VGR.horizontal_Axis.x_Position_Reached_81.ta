@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_vgr.horizontal_axis.x_position_reached_false [0.0, 14268.0] t[0.0, 14396.0] p=1.0"]
+S1 -> S0 [label="gtyp_vgr.horizontal_axis.x_position_reached_true [3.0, 47.0] t[14.0, 3728.0] p=1.0"]

@@ -1,0 +1,4016 @@
+[
+    {
+        "time": "2019-07-17 00:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 00:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 00:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 00:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 01:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 01:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 01:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 01:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:08:34",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:09:28",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:38:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:43:27",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 02:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 03:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 03:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 03:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 03:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 04:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 04:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 04:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 04:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 05:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 05:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 05:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 05:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 06:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 06:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 06:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 06:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 07:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 07:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 07:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 07:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 08:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 08:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 08:22:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 08:45:30",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 08:45:30",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 09:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 09:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 09:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 09:45:29",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 10:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 10:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 10:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 10:45:29",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 11:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 11:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 11:36:30",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "74",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 11:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 11:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:20:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:20:36",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:20:37",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:20:52",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:22:53",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:23:55",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:24:53",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 12:45:53",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 13:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 13:18:41",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 13:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 13:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 13:47:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 13:47:37",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:05",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:08",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:08",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:08",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:08",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:08",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:08",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:24",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:30",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:04:30",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:05:06",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:05:06",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:05:28",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:05:28",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:06:05",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:06:06",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:06:24",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:06:26",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:06:26",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:08:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:08:22",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:08:35",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:08:43",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:09:57",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:10:19",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:10:32",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "occupancySensor",
+        "attribute": "occupancy",
+        "current_value": "occupied",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:10:32",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "occupancySensor",
+        "attribute": "occupancy",
+        "current_value": "occupied",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:10:32",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "presenceSensor",
+        "attribute": "presence",
+        "current_value": "present",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:11:13",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:11:33",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "occupancySensor",
+        "attribute": "occupancy",
+        "current_value": "unoccupied",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:11:41",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:11:41",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:12:35",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:12:57",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:14:30",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:14:48",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:14:48",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:15:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:15:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:15:13",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:15:35",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:15:35",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:17:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:17:12",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:17:12",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:17:46",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:17:49",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:17:49",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:26:13",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:26:14",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:26:42",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:34:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:35:13",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:38:54",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:39:09",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:39:46",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:40:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:49:38",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:50:06",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:50:23",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:50:49",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:50:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:50:59",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:51:11",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:51:14",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:51:46",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:52:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:52:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:53:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:54:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:54:45",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:57:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:57:52",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:57:54",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:58:09",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:58:20",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:58:21",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:58:43",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:58:43",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:59:00",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 14:59:05",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:00:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:00:47",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:00:51",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:00:51",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:01:18",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:01:18",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:01:20",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:02:06",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:02:06",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:02:13",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:02:44",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:02:56",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:03:10",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:03:11",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:03:12",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:03:27",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:03:46",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:03:46",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:03:53",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:16",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:16",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:16",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:16",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:17",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:18",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2237",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "57",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "57",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "57",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2237",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2237",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2237",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:20",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2237",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:21",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:21",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "57",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:21",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:21",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "57",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:21",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "80",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "74",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2358",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2725",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2725",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:22",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:23",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:23",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:23",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "12",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:28",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2732",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:30",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2732",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:31",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:31",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:32",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "13",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:32",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2732",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:32",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "55",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:34",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2732",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:36",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2732",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:41",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:42",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:04:51",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:04",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:04",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:06",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:14",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:36",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:48",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:05:59",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:06:35",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:06:43",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:06:43",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:08:54",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:08:54",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:08:56",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:09:17",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:09:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:10:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:10:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:10:14",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:10:14",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:10:23",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:12:33",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:12:34",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:12:54",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:13:03",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:13:03",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:13:24",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:13:24",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:14:28",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:14:28",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:14:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:14:47",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:14:51",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:14:51",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:15:56",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:16:18",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:17:44",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:18:05",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:18:05",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:19:51",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:20:06",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:21:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:21:48",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:25:08",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:25:30",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:28:29",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:28:30",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:28:30",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:28:44",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:28:48",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:29:05",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:29:12",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:30:37",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:30:37",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:30:53",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:30:58",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:31:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:31:15",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:31:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:32:53",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:32:53",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:33:49",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:35:00",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:35:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:35:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:35:41",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:35:41",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:35:42",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:35:42",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:36:23",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:36:23",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:36:31",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:36:31",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:37:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:37:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:37:13",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:37:50",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:37:50",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:39:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:39:32",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:40:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:40:48",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:40:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:41:13",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:41:17",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:41:39",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:43:52",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:44:07",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:45:34",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:45:47",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:46:51",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:47:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:47:38",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:47:48",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:48:25",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:48:47",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:52:35",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:52:57",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:53:16",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:53:58",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:55:24",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:55:41",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:55:54",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:55:55",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:55:56",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:56:12",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:56:19",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:56:21",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:56:36",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:56:41",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:58:19",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:58:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:58:45",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:58:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:59:05",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:59:05",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:59:19",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:59:34",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 15:59:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:00:06",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:00:06",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:00:19",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:00:27",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:01:03",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:01:21",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:01:40",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:01:42",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:01:42",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:01:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:02:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:02:20",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:02:41",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:02:48",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:03:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:03:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:03:43",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:04:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:05:13",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:08:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:08:05",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:08:35",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:08:45",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:09:55",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:10:10",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:13:34",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:14:04",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:15:44",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:15:59",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:18:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:18:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:18:28",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:18:50",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:20:19",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:20:34",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:20:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:21:15",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:22:38",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:22:49",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:23:00",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:23:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:23:36",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:23:51",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:24:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:24:29",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:24:36",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:24:52",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:25:05",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:25:17",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:25:27",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:25:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:26:49",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:27:23",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:28:09",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:28:31",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:29:35",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:29:35",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:30:20",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:03",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:03",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:05",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:35",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:37",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:46",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:46",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:33:46",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:34:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:34:15",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:34:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:34:39",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:40:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "75",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:50:37",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:50:41",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:51:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:51:09",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:56:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 16:56:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:01:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:01:27",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:11:09",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:11:30",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:18:34",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:18:49",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:19:43",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:19:43",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:20:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:20:10",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:26:06",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-17 17:26:21",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    }
+]

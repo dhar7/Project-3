@@ -1,0 +1,4 @@
+S0 -> S1 [label="qx_vgr_m3_rotatecounterclockwise_q6_false [0.0, 0.0] t[0.0, 0.0] p=0.07"]
+S0 -> S2 [label="qx_vgr_m3_rotatecounterclockwise_q6_true [0.0, 0.0] t[0.0, 0.0] p=0.93"]
+S1 -> S2 [label="qx_vgr_m3_rotatecounterclockwise_q6_true [81.0, 13484.0] t[95.0, 13585.0] p=1.0"]
+S2 -> S1 [label="qx_vgr_m3_rotatecounterclockwise_q6_false [6.0, 19.0] t[14.0, 4034.0] p=1.0"]

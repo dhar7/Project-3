@@ -1,0 +1,5 @@
+S0 -> S1 [label="hue_ambiance_lamp_2_colortemperature_b0 [0.0, 0.0] t[0.0, 0.0] p=1.0"]
+S1 -> S2 [label="unknown_motion_active [227.0, 227.0] t[227.0, 227.0] p=0.2"]
+S1 -> S3 [label="unknown_motion_inactive [10.0, 21.0] t[10.0, 21.0] p=0.8"]
+S2 -> S3 [label="unknown_motion_inactive [14.0, 71.0] t[41.0, 1597.0] p=1.0"]
+S3 -> S2 [label="unknown_motion_active [2.0, 1469.0] t[20.0, 1582.0] p=1.0"]

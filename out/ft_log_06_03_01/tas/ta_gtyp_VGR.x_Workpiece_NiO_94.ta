@@ -1,0 +1,5 @@
+S0 -> S1 [label="gtyp_vgr.x_workpiece_nio_false [0.0, 0.0] t[0.0, 0.0] p=1.0"]
+S1 -> S2 [label="gtyp_vgr.x_workpiece_nio_true [156.0, 156.0] t[156.0, 156.0] p=1.0"]
+S2 -> S3 [label="gtyp_vgr.x_workpiece_nio_false [651.0, 14240.0] t[807.0, 14396.0] p=1.0"]
+S3 -> S3 [label="gtyp_vgr.x_workpiece_nio_true [160.0, 160.0] t[3756.0, 3756.0] p=0.5"]
+S3 -> S3 [label="gtyp_vgr.x_workpiece_nio_false [7040.0, 7040.0] t[10796.0, 10796.0] p=0.5"]

@@ -1,0 +1,2 @@
+S0 -> S1 [label="qx_hbw_m3_verticalaxisdownward_q5_false [0.0, 11.0] t[0.0, 4055.0] p=1.0"]
+S1 -> S0 [label="qx_hbw_m3_verticalaxisdownward_q5_true [0.0, 13560.0] t[0.0, 13585.0] p=1.0"]

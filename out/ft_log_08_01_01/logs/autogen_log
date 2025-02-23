@@ -1,0 +1,2089 @@
+========== PREPARATION PHASE STARTED ==========
+Parsing file order_part0001_Day1.csv
+Parsing file order_part0003_Day1.csv
+Parsing file order_part0005_Day1.csv
+Parsing file order_part0007_Day1.csv
+Parsing file order_part0009_Day1.csv
+Parsing file order_part0011_Day1.csv
+Parsing file order_part0012_Day2.csv
+Parsing file order_part0014_Day2.csv
+Parsing file order_part0016_Day2.csv
+Parsing file order_part0018_Day2.csv
+Parsing file order_part0020_Day2.csv
+Parsing file order_part0022_Day2.csv
+Parsing file order_part0024_Day3.csv
+Parsing file order_part0026_Day3.csv
+Parsing file order_part0028_Day3.csv
+Parsing file order_part0030_Day3.csv
+Parsing file order_part0032_Day3.csv
+Parsing file order_part0034_Day3.csv
+Parsing file order_part0036_Day6.csv
+Parsing file order_part0038_Day6.csv
+Parsing file order_part0040_Day6.csv
+Parsing file order_part0042_Day6.csv
+Parsing file order_part0044_Day6.csv
+Parsing file order_part0046_Day7.csv
+Parsing file order_part0048_Day7.csv
+Parsing file order_part0050_Day7.csv
+Parsing file order_part0052_Day7.csv
+Metrics generated. Progress: 1/6 Tasks
+Discretization done. Progress: 2/6 Tasks
+Events extracted. Progress: 3/6 Tasks
+Context separation done. Progress: 4/6 Tasks
+Zero-timed events merged, writing to file. Progress: 6.0/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.1/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.2/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.3/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.4/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.5/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.6/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.7/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.8/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.9/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.10/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.11/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.12/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.13/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.14/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.15/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.16/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.17/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.18/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.19/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.20/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.21/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.22/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.23/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.24/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.25/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.26/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.27/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.28/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.29/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.30/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.31/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.32/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.33/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.34/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.35/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.36/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.37/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.38/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.39/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.40/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.41/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.42/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.43/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.44/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.45/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.46/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.47/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.48/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.49/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.50/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.51/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.52/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.53/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.54/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.55/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.56/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.57/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.58/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.59/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.60/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.61/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.62/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.63/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.64/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.65/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.66/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.67/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.68/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.69/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.70/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.71/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.72/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.73/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.74/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.75/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.76/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.77/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.78/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.79/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.80/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.81/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.82/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.83/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.84/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.85/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.86/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.87/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.88/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.89/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.90/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.91/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.92/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.93/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.94/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.95/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.96/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.97/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.98/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.99/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.100/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.101/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.102/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.103/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.104/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.105/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.106/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.107/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.108/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.109/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.110/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.111/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.112/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.113/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.114/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.115/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.116/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.117/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.118/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.119/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.120/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.121/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.122/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.123/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.124/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.125/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.126/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.127/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.128/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.129/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.130/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.131/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.132/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.133/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.134/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.135/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.136/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.137/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.138/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.139/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.140/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.141/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.142/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.143/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.144/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.145/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.146/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.147/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.148/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.149/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.150/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.151/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.152/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.153/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.154/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.155/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.156/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.157/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.158/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.159/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.160/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.161/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.162/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.163/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.164/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.165/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.166/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.167/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.168/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.169/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.170/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.171/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.172/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.173/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.174/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.175/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.176/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.177/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.178/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.179/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.180/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.181/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.182/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.183/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.184/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.185/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.186/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.187/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.188/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.189/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.190/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.191/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.192/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.193/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.194/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.195/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.196/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.197/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.198/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.199/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.200/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.201/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.202/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.203/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.204/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.205/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.206/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.207/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.208/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.209/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.210/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.211/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.212/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.213/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.214/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.215/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.216/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.217/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.218/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.219/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.220/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.221/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.222/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.223/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.224/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.225/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.226/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.227/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.228/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.229/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.230/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.231/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.232/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.233/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.234/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.235/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.236/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.237/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.238/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.239/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.240/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.241/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.242/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.243/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.244/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.245/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.246/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.247/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.248/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.249/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.250/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.251/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.252/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.253/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.254/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.255/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.256/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.257/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.258/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.259/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.260/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.261/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.262/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.263/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.264/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.265/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.266/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.267/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.268/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.269/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.270/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.271/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.272/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.273/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.274/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.275/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.276/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.277/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.278/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.279/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.280/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.281/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.282/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.283/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.284/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.285/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.286/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.287/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.288/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.289/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.290/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.291/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.292/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.293/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.294/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.295/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.296/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.297/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.298/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.299/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.300/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.301/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.302/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.303/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.304/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.305/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.306/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.307/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.308/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.309/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.310/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.311/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.312/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.313/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.314/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.315/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.316/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.317/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.318/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.319/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.320/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.321/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.322/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.323/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.324/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.325/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.326/6.327 Tasks
+Zero-timed events merged, writing to file. Progress: 6.327/6.327 Tasks
+Ignoring IX_HBW_TrailSensor1Lower_A1: train_idx: 0, test_idx: 1
+Ignoring IX_HBW_TrailSensor2Upper_A2: train_idx: 0, test_idx: 1
+Ignoring IX_MPO_LightBarrierEndOfConBelt_I3: train_idx: 0, test_idx: 1
+Ignoring IX_MPO_LightBarrierOven_I9: train_idx: 3, test_idx: 4
+Ignoring IX_MPO_RefSwitchTurnTable_PosBelt_I2: train_idx: 0, test_idx: 1
+Ignoring IX_MPO_RefSwitchTurnTable_PosSaw_I4: train_idx: 2, test_idx: 3
+Ignoring IX_SLD_LightBarrierBehindColorSensor_I3: train_idx: 0, test_idx: 1
+Ignoring IX_SLD_LightBarrierInlet_I2: train_idx: 0, test_idx: 1
+Ignoring IX_SLD_LightBarrierRed_I6: train_idx: 0, test_idx: 1
+Ignoring IX_SLD_LightBarrierWhite_I5: train_idx: 0, test_idx: 1
+Ignoring IX_Set_Park_Position: train_idx: 0, test_idx: 1
+Ignoring QW_HBW_PWM_Cantilever_M4: train_idx: 0, test_idx: 1
+Ignoring QW_HBW_PWM_ConveyorBelt_M1: train_idx: 0, test_idx: 1
+Ignoring QW_HBW_PWM_HorizontalAxis_M2: train_idx: 0, test_idx: 1
+Ignoring QW_HBW_PWM_VerticalAxis_M3: train_idx: 0, test_idx: 1
+Ignoring QW_MPO_PWM_TurnTable_M1: train_idx: 0, test_idx: 1
+Ignoring QW_MPO_PWM_Vacuum_M5: train_idx: 0, test_idx: 1
+Ignoring QW_VGR_PWM_Horizontal_M2: train_idx: 0, test_idx: 1
+Ignoring QW_VGR_PWM_Rotate_M3: train_idx: 0, test_idx: 1
+Ignoring QW_VGR_PWM_Vertical_M1: train_idx: 0, test_idx: 1
+Ignoring QX_HBW_M1_ConveyorBeltBackward_Q2: train_idx: 0, test_idx: 1
+Ignoring QX_HBW_M1_ConveyorBeltForward_Q1: train_idx: 0, test_idx: 1
+Ignoring QX_HBW_M2_HorizontalTowardsConveyorBelt_Q4: train_idx: 3, test_idx: 4
+Ignoring QX_HBW_M4_CantileverBackward_Q8: train_idx: 3, test_idx: 4
+Ignoring QX_MPO_LightOven_Q9: train_idx: 0, test_idx: 1
+Ignoring QX_MPO_M1_TurnTableClockwise_Q1: train_idx: 3, test_idx: 4
+Ignoring QX_MPO_M1_TurnTableCounterclockwise_Q2: train_idx: 3, test_idx: 4
+Ignoring QX_MPO_M2_ConveyorBeltForward_Q3: train_idx: 3, test_idx: 4
+Ignoring QX_MPO_M3_Saw_Q4: train_idx: 2, test_idx: 3
+Ignoring QX_MPO_M4_OvenFeederRetract_Q5: train_idx: 3, test_idx: 4
+Ignoring QX_MPO_ValveFeeder_Q14: train_idx: 0, test_idx: 1
+Ignoring QX_MPO_ValveLowering_Q12: train_idx: 3, test_idx: 4
+Ignoring QX_SLD_ValveFirstEjectorWhite_Q3: train_idx: 0, test_idx: 1
+Ignoring QX_SLD_ValveSecondEjectorRed_Q4: train_idx: 0, test_idx: 1
+Ignoring QX_SLD_ValveThirdEjectorBlue_Q5: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Horizontal_Axis.Config.di_Loop_Value: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Horizontal_Axis.Config.di_Neg_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Horizontal_Axis.Config.di_Pos_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Horizontal_Axis.Config.di_Pos_Window: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Horizontal_Axis.Config.di_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Horizontal_Axis.i_PWM: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Horizontal_Axis.x_Reference: train_idx: 3, test_idx: 4
+Ignoring gtyp_HBW.Horizontal_Axis.x_Referenced: train_idx: 3, test_idx: 4
+Ignoring gtyp_HBW.Vertical_Axis.Config.di_Loop_Value: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Vertical_Axis.Config.di_Neg_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Vertical_Axis.Config.di_Pos_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Vertical_Axis.Config.di_Pos_Window: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Vertical_Axis.Config.di_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Vertical_Axis.i_PWM: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Vertical_Axis.x_Reference: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Vertical_Axis.x_Referenced: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.Workpiece.s_state: train_idx: 1, test_idx: 2
+Ignoring gtyp_HBW.Workpiece.s_type: train_idx: 1, test_idx: 2
+Ignoring gtyp_HBW.di_Offset_Pos_Belt_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_Offset_Pos_Rack_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosBelt_Horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosBelt_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosRack_A1_Horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosRack_A1_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosRack_B2_Horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosRack_B2_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosRack_C3_Horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_PosRack_C3_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_Pos_Park_Horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.di_Pos_Park_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.i_PWM_Cantilever: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.i_PWM_ConveyorBelt: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.x_Error: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.x_HBW_Container_Available: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.x_HBW_PickUp_Ready: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.x_Park_Position_Reached: train_idx: 0, test_idx: 1
+Ignoring gtyp_HBW.x_Start_Park_Position: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.Broadcast.di_hardwareId: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.Broadcast.di_hardwareModel: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.Broadcast.di_softwareVersion: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.i_aq: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.PosPanTiltUnit.r_pan: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.PosPanTiltUnit.r_tilt: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_DSI.s_station: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_DSI.x_active: train_idx: 2, test_idx: 3
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_DSO.s_station: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_HBW.s_station: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_MPO.s_station: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_Order.s_type: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_SLD.s_station: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_Dashboard.Subscribe.State_VGR.s_station: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_TXT_Controler.Subscribe.State_NFC_Device.Workpiece.s_state: train_idx: 0, test_idx: 1
+Ignoring gtyp_Interface_TXT_Controler.Subscribe.State_NFC_Device.Workpiece.s_type: train_idx: 0, test_idx: 1
+Ignoring gtyp_MPO.Workpiece.s_state: train_idx: 1, test_idx: 2
+Ignoring gtyp_MPO.Workpiece.s_type: train_idx: 1, test_idx: 2
+Ignoring gtyp_MPO.i_PWM_TurnTable: train_idx: 0, test_idx: 1
+Ignoring gtyp_MPO.i_PWM_Vacuum: train_idx: 0, test_idx: 1
+Ignoring gtyp_MPO.x_Error: train_idx: 0, test_idx: 1
+Ignoring gtyp_MPO.x_Park_Position_Reached: train_idx: 0, test_idx: 1
+Ignoring gtyp_MPO.x_Start_Park_Position: train_idx: 0, test_idx: 1
+Ignoring gtyp_SLD.Workpiece.s_state: train_idx: 4, test_idx: 5
+Ignoring gtyp_SLD.Workpiece.s_type: train_idx: 1, test_idx: 2
+Ignoring gtyp_SLD.i_CounterValue_Blue: train_idx: 0, test_idx: 1
+Ignoring gtyp_SLD.i_CounterValue_Red: train_idx: 0, test_idx: 1
+Ignoring gtyp_SLD.i_CounterValue_White: train_idx: 0, test_idx: 1
+Ignoring gtyp_SLD.i_Counter_Actual: train_idx: 0, test_idx: 1
+Ignoring gtyp_SLD.w_Threshold_Red_Blue: train_idx: 0, test_idx: 1
+Ignoring gtyp_SLD.w_Threshold_White_Red: train_idx: 0, test_idx: 1
+Ignoring gtyp_SLD.x_Error: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.di_Pos_Horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.di_Pos_Rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.di_Pos_Vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.i_Calib_CounterValue_Blue: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.i_Calib_CounterValue_Red: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.i_Calib_CounterValue_White: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.i_Color_Sensor_Selection: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.i_Pos_Selection: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.w_Actual_ColorValue: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.w_Calib_ColorValue_Blue: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.w_Calib_ColorValue_Red: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.w_Calib_ColorValue_White: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.w_Threshold_Red_Blue: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.w_Threshold_White_Red: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_AcknowledgeButton: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Activate_Continuous_Operation: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Calculate_Value_Color: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Clean_Rack_HBW: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Color_Sensor_Calibration: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Counter_Value_Calibration: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Final_Positioning: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Home_Positioning: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Park_Position: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Set_Calib_Value_Color_Blue: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Set_Calib_Value_Color_Red: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Set_Calib_Value_Color_White: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Set_CounterValues: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Set_Pos_Activ: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Start_Offset: train_idx: 0, test_idx: 1
+Ignoring gtyp_Setup.x_Start_Positioning: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_ActualPosition: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_Actual_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_Actual_Soft_End_Pos_Neg: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_Actual_Soft_End_Pos_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_LoopValue: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_Soft_End_Pos_Neg: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_Soft_End_Pos_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.di_Target_Position: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.i_AxisSelection: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.i_Function: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.i_PWM: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.w_Increment: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.x_Approach_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.x_Approach_Target_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.x_Axis_Neg: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.x_Axis_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.x_Set_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.x_Set_Soft_End_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_SetupAxis.x_Setup_Activ: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.Workpiece.s_type: train_idx: 1, test_idx: 2
+Ignoring gtyp_VGR.di_Offset_Pos_DSI_NFC_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Offset_Pos_DSO_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Offset_Pos_HBW_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Offset_Pos_HBW_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Offset_Pos_MPO_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_Color_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_Color_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_Color_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSI_Collect_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSI_Discard_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSI_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSI_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSO_Collect_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSO_Discard_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSO_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_DSO_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_HBW_Collect_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_HBW_Discard_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_HBW_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_HBW_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_MPO_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_MPO_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_MPO_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_NFC_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_NFC_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_NFC_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_NiO_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_NiO_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_NiO_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_Park_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_Park_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_Park_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_Blue_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_Blue_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_Blue_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_Red_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_Red_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_Red_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_White_horizontal: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_White_rotate: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.di_Pos_SLD_White_vertical: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.horizontal_Axis.Config.di_Loop_Value: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.horizontal_Axis.Config.di_Neg_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.horizontal_Axis.Config.di_Pos_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.horizontal_Axis.Config.di_Pos_Window: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.horizontal_Axis.Config.di_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.horizontal_Axis.i_PWM: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.rotate_Axis.Config.di_Loop_Value: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.rotate_Axis.Config.di_Neg_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.rotate_Axis.Config.di_Pos_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.rotate_Axis.Config.di_Pos_Window: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.rotate_Axis.Config.di_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.rotate_Axis.i_PWM: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.s_HBW_Outsource_Typ: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.vertical_Axis.Config.di_Loop_Value: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.vertical_Axis.Config.di_Neg_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.vertical_Axis.Config.di_Pos_Soft_Switch: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.vertical_Axis.Config.di_Pos_Window: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.vertical_Axis.Config.di_Ref_Pos: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.vertical_Axis.i_PWM: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.x_HBW_Discards: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.x_HBW_Storage: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.x_NFC_Completed: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.x_NFC_Start_First: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.x_Park_Position_Reached: train_idx: 0, test_idx: 1
+Ignoring gtyp_VGR.x_Start_Park_Position: train_idx: 0, test_idx: 1
+========== PREPARATION PHASE ENDED ==========
+========== TA 0 / Context: IW_SLD_ColorSensor_A4 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/17 = 0.0	Path length:18
+Number of edges added: 0
+Cost: 4/15 = 0.26666666666666666	Path length:16
+Number of edges added: 4
+TA Statistics:
+	States: 22	Edges: 31
+	TA 0 / Context: IW_SLD_ColorSensor_A4 GENERATION ENDED
+	TA 0 / Context: IW_SLD_ColorSensor_A4 SCORING STARTED
+Cost: 0/16 = 0.0	Path length:17
+Cost: 0/17 = 0.0	Path length:18
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 33
+========== TA 0 / Context: IW_SLD_ColorSensor_A4 SCORING ENDED ==========
+========== TA 1 / Context: IX_HBW_EncoderHorizontalAxisImp1_B1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 1 / Context: IX_HBW_EncoderHorizontalAxisImp1_B1 GENERATION ENDED
+	TA 1 / Context: IX_HBW_EncoderHorizontalAxisImp1_B1 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 1 / Context: IX_HBW_EncoderHorizontalAxisImp1_B1 SCORING ENDED ==========
+========== TA 2 / Context: IX_HBW_EncoderHorizontalAxisImp2_B2 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 2 / Context: IX_HBW_EncoderHorizontalAxisImp2_B2 GENERATION ENDED
+	TA 2 / Context: IX_HBW_EncoderHorizontalAxisImp2_B2 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 2 / Context: IX_HBW_EncoderHorizontalAxisImp2_B2 SCORING ENDED ==========
+========== TA 3 / Context: IX_HBW_EncoderVerticalAxisImp1_B3 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 3 / Context: IX_HBW_EncoderVerticalAxisImp1_B3 GENERATION ENDED
+	TA 3 / Context: IX_HBW_EncoderVerticalAxisImp1_B3 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 3 / Context: IX_HBW_EncoderVerticalAxisImp1_B3 SCORING ENDED ==========
+========== TA 4 / Context: IX_HBW_EncoderVerticalAxisImp2_B4 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/13 = 0.0	Path length:14
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 4 / Context: IX_HBW_EncoderVerticalAxisImp2_B4 GENERATION ENDED
+	TA 4 / Context: IX_HBW_EncoderVerticalAxisImp2_B4 SCORING STARTED
+Cost: 0/8 = 0.0	Path length:9
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 10
+========== TA 4 / Context: IX_HBW_EncoderVerticalAxisImp2_B4 SCORING ENDED ==========
+========== TA 5 / Context: IX_HBW_LightBarrierInside_I2 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 5 / Context: IX_HBW_LightBarrierInside_I2 GENERATION ENDED
+	TA 5 / Context: IX_HBW_LightBarrierInside_I2 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 5 / Context: IX_HBW_LightBarrierInside_I2 SCORING ENDED ==========
+========== TA 6 / Context: IX_HBW_LightBarrierOutside_I3 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 6 / Context: IX_HBW_LightBarrierOutside_I3 GENERATION ENDED
+	TA 6 / Context: IX_HBW_LightBarrierOutside_I3 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 6 / Context: IX_HBW_LightBarrierOutside_I3 SCORING ENDED ==========
+========== TA 7 / Context: IX_HBW_RefSwitchHorizontalAxis_I1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 7 / Context: IX_HBW_RefSwitchHorizontalAxis_I1 GENERATION ENDED
+	TA 7 / Context: IX_HBW_RefSwitchHorizontalAxis_I1 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 7 / Context: IX_HBW_RefSwitchHorizontalAxis_I1 SCORING ENDED ==========
+========== TA 8 / Context: IX_HBW_RefSwitchVerticalAxis_I4 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 8 / Context: IX_HBW_RefSwitchVerticalAxis_I4 GENERATION ENDED
+	TA 8 / Context: IX_HBW_RefSwitchVerticalAxis_I4 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 8 / Context: IX_HBW_RefSwitchVerticalAxis_I4 SCORING ENDED ==========
+========== TA 9 / Context: IX_HBW_SwitchCantileverBack_I6 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 9 / Context: IX_HBW_SwitchCantileverBack_I6 GENERATION ENDED
+	TA 9 / Context: IX_HBW_SwitchCantileverBack_I6 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 9 / Context: IX_HBW_SwitchCantileverBack_I6 SCORING ENDED ==========
+========== TA 10 / Context: IX_HBW_SwitchCantileverFront_I5 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 10 / Context: IX_HBW_SwitchCantileverFront_I5 GENERATION ENDED
+	TA 10 / Context: IX_HBW_SwitchCantileverFront_I5 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 10 / Context: IX_HBW_SwitchCantileverFront_I5 SCORING ENDED ==========
+========== TA 11 / Context: IX_MPO_RefSwitchOvenFeederInside_I6 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 11 / Context: IX_MPO_RefSwitchOvenFeederInside_I6 GENERATION ENDED
+	TA 11 / Context: IX_MPO_RefSwitchOvenFeederInside_I6 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 11 / Context: IX_MPO_RefSwitchOvenFeederInside_I6 SCORING ENDED ==========
+========== TA 12 / Context: IX_MPO_RefSwitchOvenFeederOutside_I7 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 12 / Context: IX_MPO_RefSwitchOvenFeederOutside_I7 GENERATION ENDED
+	TA 12 / Context: IX_MPO_RefSwitchOvenFeederOutside_I7 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 12 / Context: IX_MPO_RefSwitchOvenFeederOutside_I7 SCORING ENDED ==========
+========== TA 13 / Context: IX_MPO_RefSwitchTurnTable_PosVac_I1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 13 / Context: IX_MPO_RefSwitchTurnTable_PosVac_I1 GENERATION ENDED
+	TA 13 / Context: IX_MPO_RefSwitchTurnTable_PosVac_I1 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 13 / Context: IX_MPO_RefSwitchTurnTable_PosVac_I1 SCORING ENDED ==========
+========== TA 14 / Context: IX_MPO_RefSwitchVac_PosOven_I8 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 14 / Context: IX_MPO_RefSwitchVac_PosOven_I8 GENERATION ENDED
+	TA 14 / Context: IX_MPO_RefSwitchVac_PosOven_I8 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 14 / Context: IX_MPO_RefSwitchVac_PosOven_I8 SCORING ENDED ==========
+========== TA 15 / Context: IX_MPO_RefSwitchVac_PosTurnTable_I5 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 15 / Context: IX_MPO_RefSwitchVac_PosTurnTable_I5 GENERATION ENDED
+	TA 15 / Context: IX_MPO_RefSwitchVac_PosTurnTable_I5 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 15 / Context: IX_MPO_RefSwitchVac_PosTurnTable_I5 SCORING ENDED ==========
+========== TA 16 / Context: IX_SLD_LightBarrierBlue_I7 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 16 / Context: IX_SLD_LightBarrierBlue_I7 GENERATION ENDED
+	TA 16 / Context: IX_SLD_LightBarrierBlue_I7 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 16 / Context: IX_SLD_LightBarrierBlue_I7 SCORING ENDED ==========
+========== TA 17 / Context: IX_SLD_PulseCounter_I1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 17 / Context: IX_SLD_PulseCounter_I1 GENERATION ENDED
+	TA 17 / Context: IX_SLD_PulseCounter_I1 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 17 / Context: IX_SLD_PulseCounter_I1 SCORING ENDED ==========
+========== TA 18 / Context: IX_VGR_EncoderHorizontalAxisImp1_B3 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 18 / Context: IX_VGR_EncoderHorizontalAxisImp1_B3 GENERATION ENDED
+	TA 18 / Context: IX_VGR_EncoderHorizontalAxisImp1_B3 SCORING STARTED
+Cost: 0/13 = 0.0	Path length:14
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 15
+========== TA 18 / Context: IX_VGR_EncoderHorizontalAxisImp1_B3 SCORING ENDED ==========
+========== TA 19 / Context: IX_VGR_EncoderHorizontalAxisImp2_B4 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 19 / Context: IX_VGR_EncoderHorizontalAxisImp2_B4 GENERATION ENDED
+	TA 19 / Context: IX_VGR_EncoderHorizontalAxisImp2_B4 SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 19 / Context: IX_VGR_EncoderHorizontalAxisImp2_B4 SCORING ENDED ==========
+========== TA 20 / Context: IX_VGR_EncoderRotateImp1_B5 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 20 / Context: IX_VGR_EncoderRotateImp1_B5 GENERATION ENDED
+	TA 20 / Context: IX_VGR_EncoderRotateImp1_B5 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 20 / Context: IX_VGR_EncoderRotateImp1_B5 SCORING ENDED ==========
+========== TA 21 / Context: IX_VGR_EncoderRotateImp2_B6 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 21 / Context: IX_VGR_EncoderRotateImp2_B6 GENERATION ENDED
+	TA 21 / Context: IX_VGR_EncoderRotateImp2_B6 SCORING STARTED
+Cost: 0/8 = 0.0	Path length:9
+Cost: 0/14 = 0.0	Path length:15
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 22
+========== TA 21 / Context: IX_VGR_EncoderRotateImp2_B6 SCORING ENDED ==========
+========== TA 22 / Context: IX_VGR_EncoderVerticalAxisImp1_B1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 22 / Context: IX_VGR_EncoderVerticalAxisImp1_B1 GENERATION ENDED
+	TA 22 / Context: IX_VGR_EncoderVerticalAxisImp1_B1 SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 22 / Context: IX_VGR_EncoderVerticalAxisImp1_B1 SCORING ENDED ==========
+========== TA 23 / Context: IX_VGR_EncoderVerticalAxisImp2_B2 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 23 / Context: IX_VGR_EncoderVerticalAxisImp2_B2 GENERATION ENDED
+	TA 23 / Context: IX_VGR_EncoderVerticalAxisImp2_B2 SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 9
+========== TA 23 / Context: IX_VGR_EncoderVerticalAxisImp2_B2 SCORING ENDED ==========
+========== TA 24 / Context: IX_VGR_RefSwitchHorizontalAxis_I2 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 24 / Context: IX_VGR_RefSwitchHorizontalAxis_I2 GENERATION ENDED
+	TA 24 / Context: IX_VGR_RefSwitchHorizontalAxis_I2 SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 24 / Context: IX_VGR_RefSwitchHorizontalAxis_I2 SCORING ENDED ==========
+========== TA 25 / Context: IX_VGR_RefSwitchRotate_I3 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 25 / Context: IX_VGR_RefSwitchRotate_I3 GENERATION ENDED
+	TA 25 / Context: IX_VGR_RefSwitchRotate_I3 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 25 / Context: IX_VGR_RefSwitchRotate_I3 SCORING ENDED ==========
+========== TA 26 / Context: IX_VGR_RefSwitchVerticalAxis_I1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 26 / Context: IX_VGR_RefSwitchVerticalAxis_I1 GENERATION ENDED
+	TA 26 / Context: IX_VGR_RefSwitchVerticalAxis_I1 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 26 / Context: IX_VGR_RefSwitchVerticalAxis_I1 SCORING ENDED ==========
+========== TA 27 / Context: QX_HBW_M2_HorizontalTowardsRack_Q3 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 27 / Context: QX_HBW_M2_HorizontalTowardsRack_Q3 GENERATION ENDED
+	TA 27 / Context: QX_HBW_M2_HorizontalTowardsRack_Q3 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 6
+========== TA 27 / Context: QX_HBW_M2_HorizontalTowardsRack_Q3 SCORING ENDED ==========
+========== TA 28 / Context: QX_HBW_M3_VerticalAxisDownward_Q5 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 28 / Context: QX_HBW_M3_VerticalAxisDownward_Q5 GENERATION ENDED
+	TA 28 / Context: QX_HBW_M3_VerticalAxisDownward_Q5 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 10
+========== TA 28 / Context: QX_HBW_M3_VerticalAxisDownward_Q5 SCORING ENDED ==========
+========== TA 29 / Context: QX_HBW_M3_VerticalAxisUpward_Q6 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 29 / Context: QX_HBW_M3_VerticalAxisUpward_Q6 GENERATION ENDED
+	TA 29 / Context: QX_HBW_M3_VerticalAxisUpward_Q6 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 29 / Context: QX_HBW_M3_VerticalAxisUpward_Q6 SCORING ENDED ==========
+========== TA 30 / Context: QX_HBW_M4_CantileverForward_Q7 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 30 / Context: QX_HBW_M4_CantileverForward_Q7 GENERATION ENDED
+	TA 30 / Context: QX_HBW_M4_CantileverForward_Q7 SCORING STARTED
+Cost: 0/12 = 0.0	Path length:13
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 12
+========== TA 30 / Context: QX_HBW_M4_CantileverForward_Q7 SCORING ENDED ==========
+========== TA 31 / Context: QX_MPO_Compressor_Q10 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 31 / Context: QX_MPO_Compressor_Q10 GENERATION ENDED
+	TA 31 / Context: QX_MPO_Compressor_Q10 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 31 / Context: QX_MPO_Compressor_Q10 SCORING ENDED ==========
+========== TA 32 / Context: QX_MPO_M4_OvenFeederExtend_Q6 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 32 / Context: QX_MPO_M4_OvenFeederExtend_Q6 GENERATION ENDED
+	TA 32 / Context: QX_MPO_M4_OvenFeederExtend_Q6 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 32 / Context: QX_MPO_M4_OvenFeederExtend_Q6 SCORING ENDED ==========
+========== TA 33 / Context: QX_MPO_M5_VacuumTowardsOven_Q7 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 33 / Context: QX_MPO_M5_VacuumTowardsOven_Q7 GENERATION ENDED
+	TA 33 / Context: QX_MPO_M5_VacuumTowardsOven_Q7 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 33 / Context: QX_MPO_M5_VacuumTowardsOven_Q7 SCORING ENDED ==========
+========== TA 34 / Context: QX_MPO_M5_VacuumTowardsTurnTable_Q8 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 34 / Context: QX_MPO_M5_VacuumTowardsTurnTable_Q8 GENERATION ENDED
+	TA 34 / Context: QX_MPO_M5_VacuumTowardsTurnTable_Q8 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 34 / Context: QX_MPO_M5_VacuumTowardsTurnTable_Q8 SCORING ENDED ==========
+========== TA 35 / Context: QX_MPO_ValveOvenDoor_Q13 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 35 / Context: QX_MPO_ValveOvenDoor_Q13 GENERATION ENDED
+	TA 35 / Context: QX_MPO_ValveOvenDoor_Q13 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 35 / Context: QX_MPO_ValveOvenDoor_Q13 SCORING ENDED ==========
+========== TA 36 / Context: QX_MPO_ValveVacuum_Q11 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 36 / Context: QX_MPO_ValveVacuum_Q11 GENERATION ENDED
+	TA 36 / Context: QX_MPO_ValveVacuum_Q11 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 36 / Context: QX_MPO_ValveVacuum_Q11 SCORING ENDED ==========
+========== TA 37 / Context: QX_SLD_Compressor_Q2 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 37 / Context: QX_SLD_Compressor_Q2 GENERATION ENDED
+	TA 37 / Context: QX_SLD_Compressor_Q2 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 37 / Context: QX_SLD_Compressor_Q2 SCORING ENDED ==========
+========== TA 38 / Context: QX_SLD_M1_ConveyorBelt_Q1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 38 / Context: QX_SLD_M1_ConveyorBelt_Q1 GENERATION ENDED
+	TA 38 / Context: QX_SLD_M1_ConveyorBelt_Q1 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 38 / Context: QX_SLD_M1_ConveyorBelt_Q1 SCORING ENDED ==========
+========== TA 39 / Context: QX_VGR_Compressor_Q7 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 39 / Context: QX_VGR_Compressor_Q7 GENERATION ENDED
+	TA 39 / Context: QX_VGR_Compressor_Q7 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 39 / Context: QX_VGR_Compressor_Q7 SCORING ENDED ==========
+========== TA 40 / Context: QX_VGR_M1_VerticalAxisDown_Q2 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 40 / Context: QX_VGR_M1_VerticalAxisDown_Q2 GENERATION ENDED
+	TA 40 / Context: QX_VGR_M1_VerticalAxisDown_Q2 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 40 / Context: QX_VGR_M1_VerticalAxisDown_Q2 SCORING ENDED ==========
+========== TA 41 / Context: QX_VGR_M1_VerticalAxisUp_Q1 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 41 / Context: QX_VGR_M1_VerticalAxisUp_Q1 GENERATION ENDED
+	TA 41 / Context: QX_VGR_M1_VerticalAxisUp_Q1 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 41 / Context: QX_VGR_M1_VerticalAxisUp_Q1 SCORING ENDED ==========
+========== TA 42 / Context: QX_VGR_M2_HorizontalAxisBackward_Q3 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/13 = 0.0	Path length:14
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 42 / Context: QX_VGR_M2_HorizontalAxisBackward_Q3 GENERATION ENDED
+	TA 42 / Context: QX_VGR_M2_HorizontalAxisBackward_Q3 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 42 / Context: QX_VGR_M2_HorizontalAxisBackward_Q3 SCORING ENDED ==========
+========== TA 43 / Context: QX_VGR_M2_HorizontalAxisForward_Q4 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 43 / Context: QX_VGR_M2_HorizontalAxisForward_Q4 GENERATION ENDED
+	TA 43 / Context: QX_VGR_M2_HorizontalAxisForward_Q4 SCORING STARTED
+Cost: 0/13 = 0.0	Path length:14
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 13
+========== TA 43 / Context: QX_VGR_M2_HorizontalAxisForward_Q4 SCORING ENDED ==========
+========== TA 44 / Context: QX_VGR_M3_RotateClockwise_Q5 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 44 / Context: QX_VGR_M3_RotateClockwise_Q5 GENERATION ENDED
+	TA 44 / Context: QX_VGR_M3_RotateClockwise_Q5 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 44 / Context: QX_VGR_M3_RotateClockwise_Q5 SCORING ENDED ==========
+========== TA 45 / Context: QX_VGR_M3_RotateCounterclockwise_Q6 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 45 / Context: QX_VGR_M3_RotateCounterclockwise_Q6 GENERATION ENDED
+	TA 45 / Context: QX_VGR_M3_RotateCounterclockwise_Q6 SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 6
+========== TA 45 / Context: QX_VGR_M3_RotateCounterclockwise_Q6 SCORING ENDED ==========
+========== TA 46 / Context: QX_VGR_ValveVacuum_Q8 GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 46 / Context: QX_VGR_ValveVacuum_Q8 GENERATION ENDED
+	TA 46 / Context: QX_VGR_ValveVacuum_Q8 SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 46 / Context: QX_VGR_ValveVacuum_Q8 SCORING ENDED ==========
+========== TA 47 / Context: gtyp_HBW.Horizontal_Axis.di_Actual_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 7	Edges: 10
+	TA 47 / Context: gtyp_HBW.Horizontal_Axis.di_Actual_Position GENERATION ENDED
+	TA 47 / Context: gtyp_HBW.Horizontal_Axis.di_Actual_Position SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 47 / Context: gtyp_HBW.Horizontal_Axis.di_Actual_Position SCORING ENDED ==========
+========== TA 48 / Context: gtyp_HBW.Horizontal_Axis.di_Increment GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 7	Edges: 10
+	TA 48 / Context: gtyp_HBW.Horizontal_Axis.di_Increment GENERATION ENDED
+	TA 48 / Context: gtyp_HBW.Horizontal_Axis.di_Increment SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 48 / Context: gtyp_HBW.Horizontal_Axis.di_Increment SCORING ENDED ==========
+========== TA 49 / Context: gtyp_HBW.Horizontal_Axis.di_Target_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 49 / Context: gtyp_HBW.Horizontal_Axis.di_Target_Position GENERATION ENDED
+	TA 49 / Context: gtyp_HBW.Horizontal_Axis.di_Target_Position SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 49 / Context: gtyp_HBW.Horizontal_Axis.di_Target_Position SCORING ENDED ==========
+========== TA 50 / Context: gtyp_HBW.Horizontal_Axis.x_Position_Reached GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 50 / Context: gtyp_HBW.Horizontal_Axis.x_Position_Reached GENERATION ENDED
+	TA 50 / Context: gtyp_HBW.Horizontal_Axis.x_Position_Reached SCORING STARTED
+Cost: 0/8 = 0.0	Path length:9
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 8
+========== TA 50 / Context: gtyp_HBW.Horizontal_Axis.x_Position_Reached SCORING ENDED ==========
+========== TA 51 / Context: gtyp_HBW.Horizontal_Axis.x_Start_Positioning GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 51 / Context: gtyp_HBW.Horizontal_Axis.x_Start_Positioning GENERATION ENDED
+	TA 51 / Context: gtyp_HBW.Horizontal_Axis.x_Start_Positioning SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 51 / Context: gtyp_HBW.Horizontal_Axis.x_Start_Positioning SCORING ENDED ==========
+========== TA 52 / Context: gtyp_HBW.Vertical_Axis.di_Actual_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+TA Statistics:
+	States: 17	Edges: 18
+	TA 52 / Context: gtyp_HBW.Vertical_Axis.di_Actual_Position GENERATION ENDED
+	TA 52 / Context: gtyp_HBW.Vertical_Axis.di_Actual_Position SCORING STARTED
+Cost: 0/8 = 0.0	Path length:9
+Cost: 0/8 = 0.0	Path length:9
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 16
+========== TA 52 / Context: gtyp_HBW.Vertical_Axis.di_Actual_Position SCORING ENDED ==========
+========== TA 53 / Context: gtyp_HBW.Vertical_Axis.di_Increment GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+TA Statistics:
+	States: 17	Edges: 18
+	TA 53 / Context: gtyp_HBW.Vertical_Axis.di_Increment GENERATION ENDED
+	TA 53 / Context: gtyp_HBW.Vertical_Axis.di_Increment SCORING STARTED
+Cost: 0/8 = 0.0	Path length:9
+Cost: 0/8 = 0.0	Path length:9
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 16
+========== TA 53 / Context: gtyp_HBW.Vertical_Axis.di_Increment SCORING ENDED ==========
+========== TA 54 / Context: gtyp_HBW.Vertical_Axis.di_Target_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+TA Statistics:
+	States: 14	Edges: 16
+	TA 54 / Context: gtyp_HBW.Vertical_Axis.di_Target_Position GENERATION ENDED
+	TA 54 / Context: gtyp_HBW.Vertical_Axis.di_Target_Position SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+Cost: 0/6 = 0.0	Path length:7
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 9
+========== TA 54 / Context: gtyp_HBW.Vertical_Axis.di_Target_Position SCORING ENDED ==========
+========== TA 55 / Context: gtyp_HBW.Vertical_Axis.x_Position_Reached GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 55 / Context: gtyp_HBW.Vertical_Axis.x_Position_Reached GENERATION ENDED
+	TA 55 / Context: gtyp_HBW.Vertical_Axis.x_Position_Reached SCORING STARTED
+Cost: 0/9 = 0.0	Path length:10
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 55 / Context: gtyp_HBW.Vertical_Axis.x_Position_Reached SCORING ENDED ==========
+========== TA 56 / Context: gtyp_HBW.Vertical_Axis.x_Start_Positioning GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 56 / Context: gtyp_HBW.Vertical_Axis.x_Start_Positioning GENERATION ENDED
+	TA 56 / Context: gtyp_HBW.Vertical_Axis.x_Start_Positioning SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 56 / Context: gtyp_HBW.Vertical_Axis.x_Start_Positioning SCORING ENDED ==========
+========== TA 57 / Context: gtyp_HBW.x_HBW_Discards_Accepted GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 10/5 = 2.0	Path length:6
+Number of edges added: 1
+TA Statistics:
+	States: 5	Edges: 6
+	TA 57 / Context: gtyp_HBW.x_HBW_Discards_Accepted GENERATION ENDED
+	TA 57 / Context: gtyp_HBW.x_HBW_Discards_Accepted SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 2
+========== TA 57 / Context: gtyp_HBW.x_HBW_Discards_Accepted SCORING ENDED ==========
+========== TA 58 / Context: gtyp_HBW.x_HBW_PickedUp_Accepted GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 58 / Context: gtyp_HBW.x_HBW_PickedUp_Accepted GENERATION ENDED
+	TA 58 / Context: gtyp_HBW.x_HBW_PickedUp_Accepted SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 58 / Context: gtyp_HBW.x_HBW_PickedUp_Accepted SCORING ENDED ==========
+========== TA 59 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.i_ldr GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/13 = 0.0	Path length:14
+Number of edges added: 0
+Cost: 0/13 = 0.0	Path length:14
+Number of edges added: 0
+Cost: 0/13 = 0.0	Path length:14
+Number of edges added: 0
+TA Statistics:
+	States: 18	Edges: 19
+	TA 59 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.i_ldr GENERATION ENDED
+	TA 59 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.i_ldr SCORING STARTED
+Cost: 5/12 = 0.4166666666666667	Path length:13
+Cost: 5/12 = 0.4166666666666667	Path length:13
+	 ACCURACY SCORE: 0.5833333333333333	TIME SKEW: inf NUMBER OF VIOLATIONS: 24
+========== TA 59 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.i_ldr SCORING ENDED ==========
+========== TA 60 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.r_br GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 1/2 = 0.5	Path length:3
+Number of edges added: 1
+Cost: 0/1 = 0.0	Path length:2
+Number of edges added: 0
+Cost: 2/18 = 0.1111111111111111	Path length:19
+Number of edges added: 2
+TA Statistics:
+	States: 22	Edges: 30
+	TA 60 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.r_br GENERATION ENDED
+	TA 60 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.r_br SCORING STARTED
+Cost: 0/18 = 0.0	Path length:19
+Cost: 0/18 = 0.0	Path length:19
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 34
+========== TA 60 / Context: gtyp_Interface_Dashboard.Subscribe.BrightnessSensor.r_br SCORING ENDED ==========
+========== TA 61 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.di_gr GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+Cost: 14/8 = 1.75	Path length:9
+Number of edges added: 5
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+TA Statistics:
+	States: 12	Edges: 17
+	TA 61 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.di_gr GENERATION ENDED
+	TA 61 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.di_gr SCORING STARTED
+Cost: 0/6 = 0.0	Path length:7
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 9
+========== TA 61 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.di_gr SCORING ENDED ==========
+========== TA 62 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.i_iaq GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 30/13 = 2.3076923076923075	Path length:14
+Number of edges added: 3
+Cost: 0/10 = 0.0	Path length:11
+Number of edges added: 0
+Cost: 0/10 = 0.0	Path length:11
+Number of edges added: 0
+TA Statistics:
+	States: 15	Edges: 17
+	TA 62 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.i_iaq GENERATION ENDED
+	TA 62 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.i_iaq SCORING STARTED
+Cost: 0/10 = 0.0	Path length:11
+Cost: 0/4 = 0.0	Path length:5
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 62 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.i_iaq SCORING ENDED ==========
+========== TA 63 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_h GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+TA Statistics:
+	States: 8	Edges: 7
+	TA 63 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_h GENERATION ENDED
+	TA 63 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_h SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/4 = 0.0	Path length:5
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 63 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_h SCORING ENDED ==========
+========== TA 64 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_p GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+TA Statistics:
+	States: 7	Edges: 7
+	TA 64 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_p GENERATION ENDED
+	TA 64 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_p SCORING STARTED
+Cost: 0/11 = 0.0	Path length:12
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 13
+========== TA 64 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_p SCORING ENDED ==========
+========== TA 65 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rh GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+TA Statistics:
+	States: 8	Edges: 7
+	TA 65 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rh GENERATION ENDED
+	TA 65 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rh SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/4 = 0.0	Path length:5
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 65 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rh SCORING ENDED ==========
+========== TA 66 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rt GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/4 = 0.0	Path length:5
+Number of edges added: 0
+TA Statistics:
+	States: 7	Edges: 6
+	TA 66 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rt GENERATION ENDED
+	TA 66 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rt SCORING STARTED
+Cost: 11/5 = 2.2	Path length:6
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 0	TIME SKEW: inf NUMBER OF VIOLATIONS: 8
+========== TA 66 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_rt SCORING ENDED ==========
+========== TA 67 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_t GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 10	Edges: 9
+	TA 67 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_t GENERATION ENDED
+	TA 67 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_t SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 6
+========== TA 67 / Context: gtyp_Interface_Dashboard.Subscribe.EnvironmentSensor.r_t SCORING ENDED ==========
+========== TA 68 / Context: gtyp_Interface_Dashboard.Subscribe.State_DSO.x_active GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+TA Statistics:
+	States: 4	Edges: 3
+	TA 68 / Context: gtyp_Interface_Dashboard.Subscribe.State_DSO.x_active GENERATION ENDED
+	TA 68 / Context: gtyp_Interface_Dashboard.Subscribe.State_DSO.x_active SCORING STARTED
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 2
+========== TA 68 / Context: gtyp_Interface_Dashboard.Subscribe.State_DSO.x_active SCORING ENDED ==========
+========== TA 69 / Context: gtyp_Interface_Dashboard.Subscribe.State_HBW.x_active GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 69 / Context: gtyp_Interface_Dashboard.Subscribe.State_HBW.x_active GENERATION ENDED
+	TA 69 / Context: gtyp_Interface_Dashboard.Subscribe.State_HBW.x_active SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 69 / Context: gtyp_Interface_Dashboard.Subscribe.State_HBW.x_active SCORING ENDED ==========
+========== TA 70 / Context: gtyp_Interface_Dashboard.Subscribe.State_MPO.x_active GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 70 / Context: gtyp_Interface_Dashboard.Subscribe.State_MPO.x_active GENERATION ENDED
+	TA 70 / Context: gtyp_Interface_Dashboard.Subscribe.State_MPO.x_active SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 70 / Context: gtyp_Interface_Dashboard.Subscribe.State_MPO.x_active SCORING ENDED ==========
+========== TA 71 / Context: gtyp_Interface_Dashboard.Subscribe.State_Order.s_state GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 3
+	TA 71 / Context: gtyp_Interface_Dashboard.Subscribe.State_Order.s_state GENERATION ENDED
+	TA 71 / Context: gtyp_Interface_Dashboard.Subscribe.State_Order.s_state SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 4
+========== TA 71 / Context: gtyp_Interface_Dashboard.Subscribe.State_Order.s_state SCORING ENDED ==========
+========== TA 72 / Context: gtyp_Interface_Dashboard.Subscribe.State_SLD.x_active GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 72 / Context: gtyp_Interface_Dashboard.Subscribe.State_SLD.x_active GENERATION ENDED
+	TA 72 / Context: gtyp_Interface_Dashboard.Subscribe.State_SLD.x_active SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 72 / Context: gtyp_Interface_Dashboard.Subscribe.State_SLD.x_active SCORING ENDED ==========
+========== TA 73 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.s_target GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/14 = 0.0	Path length:15
+Number of edges added: 0
+TA Statistics:
+	States: 32	Edges: 33
+	TA 73 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.s_target GENERATION ENDED
+	TA 73 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.s_target SCORING STARTED
+Cost: 14/28 = 0.5	Path length:29
+	 ACCURACY SCORE: 0.5	TIME SKEW: inf NUMBER OF VIOLATIONS: 27
+========== TA 73 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.s_target SCORING ENDED ==========
+========== TA 74 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.x_active GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 74 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.x_active GENERATION ENDED
+	TA 74 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.x_active SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 74 / Context: gtyp_Interface_Dashboard.Subscribe.State_VGR.x_active SCORING ENDED ==========
+========== TA 75 / Context: gtyp_MPO.x_Discard_Ready GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 75 / Context: gtyp_MPO.x_Discard_Ready GENERATION ENDED
+	TA 75 / Context: gtyp_MPO.x_Discard_Ready SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 75 / Context: gtyp_MPO.x_Discard_Ready SCORING ENDED ==========
+========== TA 76 / Context: gtyp_MPO.x_MPO_Discards_Accepted GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 76 / Context: gtyp_MPO.x_MPO_Discards_Accepted GENERATION ENDED
+	TA 76 / Context: gtyp_MPO.x_MPO_Discards_Accepted SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 76 / Context: gtyp_MPO.x_MPO_Discards_Accepted SCORING ENDED ==========
+========== TA 77 / Context: gtyp_VGR.Workpiece.s_state GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/15 = 0.0	Path length:16
+Number of edges added: 0
+TA Statistics:
+	States: 34	Edges: 35
+	TA 77 / Context: gtyp_VGR.Workpiece.s_state GENERATION ENDED
+	TA 77 / Context: gtyp_VGR.Workpiece.s_state SCORING STARTED
+Cost: 15/30 = 0.5	Path length:31
+	 ACCURACY SCORE: 0.5	TIME SKEW: inf NUMBER OF VIOLATIONS: 29
+========== TA 77 / Context: gtyp_VGR.Workpiece.s_state SCORING ENDED ==========
+========== TA 78 / Context: gtyp_VGR.horizontal_Axis.di_Actual_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 8/21 = 0.38095238095238093	Path length:22
+Number of edges added: 8
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+TA Statistics:
+	States: 20	Edges: 29
+	TA 78 / Context: gtyp_VGR.horizontal_Axis.di_Actual_Position GENERATION ENDED
+	TA 78 / Context: gtyp_VGR.horizontal_Axis.di_Actual_Position SCORING STARTED
+Cost: 0/11 = 0.0	Path length:12
+Cost: 0/11 = 0.0	Path length:12
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 22
+========== TA 78 / Context: gtyp_VGR.horizontal_Axis.di_Actual_Position SCORING ENDED ==========
+========== TA 79 / Context: gtyp_VGR.horizontal_Axis.di_Increment GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 5/19 = 0.2631578947368421	Path length:20
+Number of edges added: 5
+Cost: 0/10 = 0.0	Path length:11
+Number of edges added: 0
+TA Statistics:
+	States: 19	Edges: 25
+	TA 79 / Context: gtyp_VGR.horizontal_Axis.di_Increment GENERATION ENDED
+	TA 79 / Context: gtyp_VGR.horizontal_Axis.di_Increment SCORING STARTED
+Cost: 0/10 = 0.0	Path length:11
+Cost: 0/10 = 0.0	Path length:11
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 20
+========== TA 79 / Context: gtyp_VGR.horizontal_Axis.di_Increment SCORING ENDED ==========
+========== TA 80 / Context: gtyp_VGR.horizontal_Axis.di_Target_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+Cost: 0/6 = 0.0	Path length:7
+Number of edges added: 0
+TA Statistics:
+	States: 7	Edges: 8
+	TA 80 / Context: gtyp_VGR.horizontal_Axis.di_Target_Position GENERATION ENDED
+	TA 80 / Context: gtyp_VGR.horizontal_Axis.di_Target_Position SCORING STARTED
+Cost: 0/6 = 0.0	Path length:7
+Cost: 0/2 = 0.0	Path length:3
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 8
+========== TA 80 / Context: gtyp_VGR.horizontal_Axis.di_Target_Position SCORING ENDED ==========
+========== TA 81 / Context: gtyp_VGR.horizontal_Axis.x_Position_Reached GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/19 = 0.0	Path length:20
+Number of edges added: 0
+Cost: 0/11 = 0.0	Path length:12
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 81 / Context: gtyp_VGR.horizontal_Axis.x_Position_Reached GENERATION ENDED
+	TA 81 / Context: gtyp_VGR.horizontal_Axis.x_Position_Reached SCORING STARTED
+Cost: 0/9 = 0.0	Path length:10
+Cost: 0/11 = 0.0	Path length:12
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 20
+========== TA 81 / Context: gtyp_VGR.horizontal_Axis.x_Position_Reached SCORING ENDED ==========
+========== TA 82 / Context: gtyp_VGR.horizontal_Axis.x_Reference GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 82 / Context: gtyp_VGR.horizontal_Axis.x_Reference GENERATION ENDED
+	TA 82 / Context: gtyp_VGR.horizontal_Axis.x_Reference SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 82 / Context: gtyp_VGR.horizontal_Axis.x_Reference SCORING ENDED ==========
+========== TA 83 / Context: gtyp_VGR.horizontal_Axis.x_Referenced GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 83 / Context: gtyp_VGR.horizontal_Axis.x_Referenced GENERATION ENDED
+	TA 83 / Context: gtyp_VGR.horizontal_Axis.x_Referenced SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 83 / Context: gtyp_VGR.horizontal_Axis.x_Referenced SCORING ENDED ==========
+========== TA 84 / Context: gtyp_VGR.horizontal_Axis.x_Start_Positioning GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/13 = 0.0	Path length:14
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 84 / Context: gtyp_VGR.horizontal_Axis.x_Start_Positioning GENERATION ENDED
+	TA 84 / Context: gtyp_VGR.horizontal_Axis.x_Start_Positioning SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 84 / Context: gtyp_VGR.horizontal_Axis.x_Start_Positioning SCORING ENDED ==========
+========== TA 85 / Context: gtyp_VGR.rotate_Axis.di_Actual_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+TA Statistics:
+	States: 24	Edges: 27
+	TA 85 / Context: gtyp_VGR.rotate_Axis.di_Actual_Position GENERATION ENDED
+	TA 85 / Context: gtyp_VGR.rotate_Axis.di_Actual_Position SCORING STARTED
+Cost: 7/16 = 0.4375	Path length:17
+Cost: 0/8 = 0.0	Path length:9
+	 ACCURACY SCORE: 0.7083333333333333	TIME SKEW: inf NUMBER OF VIOLATIONS: 23
+========== TA 85 / Context: gtyp_VGR.rotate_Axis.di_Actual_Position SCORING ENDED ==========
+========== TA 86 / Context: gtyp_VGR.rotate_Axis.di_Increment GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+Cost: 0/8 = 0.0	Path length:9
+Number of edges added: 0
+TA Statistics:
+	States: 24	Edges: 27
+	TA 86 / Context: gtyp_VGR.rotate_Axis.di_Increment GENERATION ENDED
+	TA 86 / Context: gtyp_VGR.rotate_Axis.di_Increment SCORING STARTED
+Cost: 6/16 = 0.375	Path length:17
+Cost: 0/8 = 0.0	Path length:9
+	 ACCURACY SCORE: 0.75	TIME SKEW: inf NUMBER OF VIOLATIONS: 24
+========== TA 86 / Context: gtyp_VGR.rotate_Axis.di_Increment SCORING ENDED ==========
+========== TA 87 / Context: gtyp_VGR.rotate_Axis.di_Target_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 5	Edges: 6
+	TA 87 / Context: gtyp_VGR.rotate_Axis.di_Target_Position GENERATION ENDED
+	TA 87 / Context: gtyp_VGR.rotate_Axis.di_Target_Position SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 10
+========== TA 87 / Context: gtyp_VGR.rotate_Axis.di_Target_Position SCORING ENDED ==========
+========== TA 88 / Context: gtyp_VGR.rotate_Axis.x_Position_Reached GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/15 = 0.0	Path length:16
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 88 / Context: gtyp_VGR.rotate_Axis.x_Position_Reached GENERATION ENDED
+	TA 88 / Context: gtyp_VGR.rotate_Axis.x_Position_Reached SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 88 / Context: gtyp_VGR.rotate_Axis.x_Position_Reached SCORING ENDED ==========
+========== TA 89 / Context: gtyp_VGR.rotate_Axis.x_Reference GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 89 / Context: gtyp_VGR.rotate_Axis.x_Reference GENERATION ENDED
+	TA 89 / Context: gtyp_VGR.rotate_Axis.x_Reference SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 89 / Context: gtyp_VGR.rotate_Axis.x_Reference SCORING ENDED ==========
+========== TA 90 / Context: gtyp_VGR.rotate_Axis.x_Referenced GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 90 / Context: gtyp_VGR.rotate_Axis.x_Referenced GENERATION ENDED
+	TA 90 / Context: gtyp_VGR.rotate_Axis.x_Referenced SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 90 / Context: gtyp_VGR.rotate_Axis.x_Referenced SCORING ENDED ==========
+========== TA 91 / Context: gtyp_VGR.rotate_Axis.x_Start_Positioning GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 91 / Context: gtyp_VGR.rotate_Axis.x_Start_Positioning GENERATION ENDED
+	TA 91 / Context: gtyp_VGR.rotate_Axis.x_Start_Positioning SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 14
+========== TA 91 / Context: gtyp_VGR.rotate_Axis.x_Start_Positioning SCORING ENDED ==========
+========== TA 92 / Context: gtyp_VGR.vertical_Axis.di_Actual_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+Cost: 4/18 = 0.2222222222222222	Path length:19
+Number of edges added: 4
+TA Statistics:
+	States: 12	Edges: 17
+	TA 92 / Context: gtyp_VGR.vertical_Axis.di_Actual_Position GENERATION ENDED
+	TA 92 / Context: gtyp_VGR.vertical_Axis.di_Actual_Position SCORING STARTED
+Cost: 0/9 = 0.0	Path length:10
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 9
+========== TA 92 / Context: gtyp_VGR.vertical_Axis.di_Actual_Position SCORING ENDED ==========
+========== TA 93 / Context: gtyp_VGR.vertical_Axis.di_Increment GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+Cost: 4/18 = 0.2222222222222222	Path length:19
+Number of edges added: 4
+TA Statistics:
+	States: 12	Edges: 17
+	TA 93 / Context: gtyp_VGR.vertical_Axis.di_Increment GENERATION ENDED
+	TA 93 / Context: gtyp_VGR.vertical_Axis.di_Increment SCORING STARTED
+Cost: 0/9 = 0.0	Path length:10
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 9
+========== TA 93 / Context: gtyp_VGR.vertical_Axis.di_Increment SCORING ENDED ==========
+========== TA 94 / Context: gtyp_VGR.vertical_Axis.di_Target_Position GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+TA Statistics:
+	States: 10	Edges: 13
+	TA 94 / Context: gtyp_VGR.vertical_Axis.di_Target_Position GENERATION ENDED
+	TA 94 / Context: gtyp_VGR.vertical_Axis.di_Target_Position SCORING STARTED
+Cost: 0/9 = 0.0	Path length:10
+Cost: 0/9 = 0.0	Path length:10
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 18
+========== TA 94 / Context: gtyp_VGR.vertical_Axis.di_Target_Position SCORING ENDED ==========
+========== TA 95 / Context: gtyp_VGR.vertical_Axis.x_Position_Reached GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 95 / Context: gtyp_VGR.vertical_Axis.x_Position_Reached GENERATION ENDED
+	TA 95 / Context: gtyp_VGR.vertical_Axis.x_Position_Reached SCORING STARTED
+Cost: 0/9 = 0.0	Path length:10
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 9
+========== TA 95 / Context: gtyp_VGR.vertical_Axis.x_Position_Reached SCORING ENDED ==========
+========== TA 96 / Context: gtyp_VGR.vertical_Axis.x_Reference GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 96 / Context: gtyp_VGR.vertical_Axis.x_Reference GENERATION ENDED
+	TA 96 / Context: gtyp_VGR.vertical_Axis.x_Reference SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 96 / Context: gtyp_VGR.vertical_Axis.x_Reference SCORING ENDED ==========
+========== TA 97 / Context: gtyp_VGR.vertical_Axis.x_Referenced GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 97 / Context: gtyp_VGR.vertical_Axis.x_Referenced GENERATION ENDED
+	TA 97 / Context: gtyp_VGR.vertical_Axis.x_Referenced SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 97 / Context: gtyp_VGR.vertical_Axis.x_Referenced SCORING ENDED ==========
+========== TA 98 / Context: gtyp_VGR.vertical_Axis.x_Start_Positioning GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/7 = 0.0	Path length:8
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 98 / Context: gtyp_VGR.vertical_Axis.x_Start_Positioning GENERATION ENDED
+	TA 98 / Context: gtyp_VGR.vertical_Axis.x_Start_Positioning SCORING STARTED
+Cost: 0/7 = 0.0	Path length:8
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 7
+========== TA 98 / Context: gtyp_VGR.vertical_Axis.x_Start_Positioning SCORING ENDED ==========
+========== TA 99 / Context: gtyp_VGR.x_HBW_Outsource GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 99 / Context: gtyp_VGR.x_HBW_Outsource GENERATION ENDED
+	TA 99 / Context: gtyp_VGR.x_HBW_Outsource SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 6
+========== TA 99 / Context: gtyp_VGR.x_HBW_Outsource SCORING ENDED ==========
+========== TA 100 / Context: gtyp_VGR.x_HBW_PickedUp GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 100 / Context: gtyp_VGR.x_HBW_PickedUp GENERATION ENDED
+	TA 100 / Context: gtyp_VGR.x_HBW_PickedUp SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 100 / Context: gtyp_VGR.x_HBW_PickedUp SCORING ENDED ==========
+========== TA 101 / Context: gtyp_VGR.x_MPO_Discards GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 101 / Context: gtyp_VGR.x_MPO_Discards GENERATION ENDED
+	TA 101 / Context: gtyp_VGR.x_MPO_Discards SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 101 / Context: gtyp_VGR.x_MPO_Discards SCORING ENDED ==========
+========== TA 102 / Context: gtyp_VGR.x_MPO_Req_Discard GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 102 / Context: gtyp_VGR.x_MPO_Req_Discard GENERATION ENDED
+	TA 102 / Context: gtyp_VGR.x_MPO_Req_Discard SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 102 / Context: gtyp_VGR.x_MPO_Req_Discard SCORING ENDED ==========
+========== TA 103 / Context: gtyp_VGR.x_NFC_Start GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 103 / Context: gtyp_VGR.x_NFC_Start GENERATION ENDED
+	TA 103 / Context: gtyp_VGR.x_NFC_Start SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 103 / Context: gtyp_VGR.x_NFC_Start SCORING ENDED ==========
+========== TA 104 / Context: gtyp_VGR.x_Ready_For_Outsource GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/5 = 0.0	Path length:6
+Number of edges added: 0
+Cost: 0/9 = 0.0	Path length:10
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 104 / Context: gtyp_VGR.x_Ready_For_Outsource GENERATION ENDED
+	TA 104 / Context: gtyp_VGR.x_Ready_For_Outsource SCORING STARTED
+Cost: 0/5 = 0.0	Path length:6
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 5
+========== TA 104 / Context: gtyp_VGR.x_Ready_For_Outsource SCORING ENDED ==========
+========== TA 105 / Context: gtyp_VGR.x_State_Process GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/2 = 0.0	Path length:3
+Number of edges added: 0
+TA Statistics:
+	States: 3	Edges: 4
+	TA 105 / Context: gtyp_VGR.x_State_Process GENERATION ENDED
+	TA 105 / Context: gtyp_VGR.x_State_Process SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 6
+========== TA 105 / Context: gtyp_VGR.x_State_Process SCORING ENDED ==========
+========== TA 106 / Context: gtyp_VGR.x_Workpiece_NiO GENERATION STARTED ==========
+Building Phase I - Merges
+Building Phase II - Splits
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+Cost: 0/3 = 0.0	Path length:4
+Number of edges added: 0
+TA Statistics:
+	States: 2	Edges: 2
+	TA 106 / Context: gtyp_VGR.x_Workpiece_NiO GENERATION ENDED
+	TA 106 / Context: gtyp_VGR.x_Workpiece_NiO SCORING STARTED
+Cost: 0/3 = 0.0	Path length:4
+	 ACCURACY SCORE: 1.0	TIME SKEW: inf NUMBER OF VIOLATIONS: 3
+========== TA 106 / Context: gtyp_VGR.x_Workpiece_NiO SCORING ENDED ==========
+AUTOGEN FINISHED
+TOTAL NUMBER OF EVENTS: 929	NUMBER OF VIOLATIONS: 920
+AVERAGE SCORE: 0.9321851453175457
+	Histogram:
+[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.5833333333333333, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 0.5, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.7083333333333333, 0.75, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]

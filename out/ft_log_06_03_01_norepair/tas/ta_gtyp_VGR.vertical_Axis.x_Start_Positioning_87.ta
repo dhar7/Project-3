@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_vgr.vertical_axis.x_start_positioning_false [0.0, 19.0] t[0.0, 3714.0] p=1.0"]
+S1 -> S0 [label="gtyp_vgr.vertical_axis.x_start_positioning_true [6.0, 3530.0] t[44.0, 3700.0] p=1.0"]

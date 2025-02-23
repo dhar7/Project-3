@@ -1,0 +1,4 @@
+S0 -> S1 [label="gtyp_vgr.rotate_axis.x_start_positioning_false [0.0, 0.0] t[0.0, 0.0] p=0.07"]
+S0 -> S2 [label="gtyp_vgr.rotate_axis.x_start_positioning_true [0.0, 0.0] t[0.0, 0.0] p=0.93"]
+S1 -> S2 [label="gtyp_vgr.rotate_axis.x_start_positioning_true [16.0, 14268.0] t[30.0, 14396.0] p=1.0"]
+S2 -> S1 [label="gtyp_vgr.rotate_axis.x_start_positioning_false [6.0, 18.0] t[14.0, 3728.0] p=1.0"]

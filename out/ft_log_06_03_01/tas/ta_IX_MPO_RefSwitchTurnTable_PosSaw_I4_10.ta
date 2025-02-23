@@ -1,0 +1,3 @@
+S0 -> S1 [label="ix_mpo_refswitchturntable_possaw_i4_false [0.0, 0.0] t[0.0, 0.0] p=1.0"]
+S1 -> S1 [label="ix_mpo_refswitchturntable_possaw_i4_true [78.0, 78.0] t[78.0, 78.0] p=0.5"]
+S1 -> S1 [label="ix_mpo_refswitchturntable_possaw_i4_false [14.0, 14.0] t[92.0, 92.0] p=0.5"]

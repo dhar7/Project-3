@@ -1,0 +1,2 @@
+S0 -> S1 [label="qx_hbw_m2_horizontaltowardsrack_q3_false [0.0, 11.0] t[0.0, 4069.0] p=1.0"]
+S1 -> S0 [label="qx_hbw_m2_horizontaltowardsrack_q3_true [0.0, 14355.0] t[0.0, 14396.0] p=1.0"]

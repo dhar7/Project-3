@@ -1,0 +1,7 @@
+S0 -> S1 [label="hue_lightstrip_plus_1_hue_b0 [0.0, 0.0] t[0.0, 0.0] p=0.75"]
+S0 -> S8 [label="hue_lightstrip_plus_1_hue_b1 [0.0, 0.0] t[0.0, 0.0] p=0.25"]
+S1 -> S2 [label="hue_lightstrip_plus_1_hue_b1 [4.0, 4.0] t[4.0, 4.0] p=0.5"]
+S1 -> S7 [label="hue_lightstrip_plus_1_hue_b3 [13.0, 13.0] t[13.0, 13.0] p=0.5"]
+S8 -> S9 [label="hue_lightstrip_plus_1_hue_b2 [9.0, 9.0] t[9.0, 9.0] p=1.0"]
+S2 -> S3 [label="hue_lightstrip_plus_1_hue_b2 [3.0, 3.0] t[7.0, 14.0] p=1.0"]
+S3 -> S2 [label="hue_lightstrip_plus_1_hue_b3 [3.0, 4.0] t[11.0, 17.0] p=1.0"]

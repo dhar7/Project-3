@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_vgr.x_mpo_req_discard_false [0.0, 21.0] t[0.0, 4072.0] p=1.0"]
+S1 -> S0 [label="gtyp_vgr.x_mpo_req_discard_true [25.0, 4009.0] t[25.0, 4055.0] p=1.0"]

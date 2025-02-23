@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_interface_dashboard.subscribe.state_sld.x_active_false [0.0, 27.0] t[0.0, 4142.0] p=1.0"]
+S1 -> S0 [label="gtyp_interface_dashboard.subscribe.state_sld.x_active_true [87.0, 4006.0] t[87.0, 4115.0] p=1.0"]

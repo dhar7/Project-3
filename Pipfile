@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+networkx = "*"
+matplotlib = "*"
+graphviz = "*"
+ipython = "*"
+efficient-apriori = "*"
+pyvis = "*"
+pyqt6 = "*"
+dill = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

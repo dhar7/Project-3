@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_hbw.vertical_axis.x_start_positioning_false [0.0, 11.0] t[0.0, 4042.0] p=1.0"]
+S1 -> S0 [label="gtyp_hbw.vertical_axis.x_start_positioning_true [0.0, 13560.0] t[0.0, 13585.0] p=1.0"]

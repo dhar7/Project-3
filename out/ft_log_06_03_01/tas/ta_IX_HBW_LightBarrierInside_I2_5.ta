@@ -1,0 +1,2 @@
+S0 -> S1 [label="ix_hbw_lightbarrierinside_i2_true [0.0, 11.0] t[0.0, 4055.0] p=1.0"]
+S1 -> S0 [label="ix_hbw_lightbarrierinside_i2_false [16.0, 4019.0] t[16.0, 4044.0] p=1.0"]

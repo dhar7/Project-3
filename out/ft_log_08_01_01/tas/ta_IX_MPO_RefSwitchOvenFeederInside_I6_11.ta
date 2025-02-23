@@ -1,0 +1,2 @@
+S0 -> S1 [label="ix_mpo_refswitchovenfeederinside_i6_true [0.0, 34.0] t[0.0, 4096.0] p=1.0"]
+S1 -> S0 [label="ix_mpo_refswitchovenfeederinside_i6_false [5.0, 3990.0] t[27.0, 4086.0] p=1.0"]

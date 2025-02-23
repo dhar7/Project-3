@@ -1,0 +1,4 @@
+S0 -> S1 [label="blase's_smartphone_presence_not_present [0.0, 0.0] t[0.0, 0.0] p=0.38"]
+S0 -> S2 [label="blase's_smartphone_presence_present [0.0, 0.0] t[0.0, 0.0] p=0.62"]
+S1 -> S2 [label="blase's_smartphone_presence_present [13.0, 63439.0] t[14992.0, 65729.0] p=1.0"]
+S2 -> S1 [label="blase's_smartphone_presence_not_present [13420.0, 27087.0] t[15300.0, 67982.0] p=1.0"]

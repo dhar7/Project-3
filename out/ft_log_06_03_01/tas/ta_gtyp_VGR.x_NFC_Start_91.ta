@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_vgr.x_nfc_start_false [0.0, 28.0] t[0.0, 4184.0] p=1.0"]
+S1 -> S0 [label="gtyp_vgr.x_nfc_start_true [128.0, 4017.0] t[128.0, 4156.0] p=1.0"]

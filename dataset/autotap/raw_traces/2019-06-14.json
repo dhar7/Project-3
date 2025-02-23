@@ -1,0 +1,4232 @@
+[
+    {
+        "time": "2019-06-14 00:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 00:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 00:40:29",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 00:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 00:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 01:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 01:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 01:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 01:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 02:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 02:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 02:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 02:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 03:09:44",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "68",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 03:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 03:18:41",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 03:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 03:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 04:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 04:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 04:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 04:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 05:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 05:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 05:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 05:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 06:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 06:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 06:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 06:45:29",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 07:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 07:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 07:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 07:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 08:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 08:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 08:33:11",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "69",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 08:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 08:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 09:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 09:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 09:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 09:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 10:17:42",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "70",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 10:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 10:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 10:41:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "70",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 10:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 10:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:43",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:44",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:44",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:45",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:45",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:46",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:47",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:48",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:49",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:17:59",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:03",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:03",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:03",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:03",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:03",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:03",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:04",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:06",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:06",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:06",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:07",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:08",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:10",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:19",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:19",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:21:56",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:21:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:22:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:23:05",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:23:13",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:23:14",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:23:23",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:23:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:23:42",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:23:46",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:24:02",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:24:14",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:24:49",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:24:49",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:24:50",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:24:51",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:24:52",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:25:04",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:25:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:25:20",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:25:47",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:25:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:26:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:29:13",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:29:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:46:20",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:50:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:50:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:50:40",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:51:19",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:54:14",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:54:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:55:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:56:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 11:57:14",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:00:54",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:01:26",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:03:14",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:03:29",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:04:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:05:54",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:09:29",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:09:44",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:38",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:40",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:40",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:40",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:40",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:40",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:40",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:40",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:44",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:44",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:44",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:44",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:44",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:44",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:44",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:46",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:46",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:46",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:46",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:46",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:47",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:47",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:48",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:48",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:48",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:48",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:48",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:48",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:13:48",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:14:07",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:14:14",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "presenceSensor",
+        "attribute": "presence",
+        "current_value": "present",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:14:14",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "occupancySensor",
+        "attribute": "occupancy",
+        "current_value": "occupied",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:03",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "64",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:03",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:04",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "6500",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:07",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "56",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:07",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "53",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:10",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "81",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:10",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "59",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:15",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "occupancySensor",
+        "attribute": "occupancy",
+        "current_value": "unoccupied",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:15",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "84",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:15",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "66",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:18",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "79",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:22",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "77",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:22",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "84",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:15:22",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "4098",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:16:53",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:17:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:20:41",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "color",
+        "current_value": "#FF3AF7",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:26:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:38",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:40",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:46",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "66",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:49",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "20",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:52",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "69",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:55",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "5882",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:56",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "6500",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:34:59",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2950",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:03",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switchLevel",
+        "attribute": "level",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:17",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:17",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "63",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:22",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "23",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:22",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "16",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:24",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "14",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:24",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "48",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:25",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "31",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:25",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "19",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:26",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "31",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:26",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:29",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "54",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:29",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "14",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:30",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "56",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:30",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "17",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:45",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:45",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "63",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:48",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "6500",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:51",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "1",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:35:56",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "38",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:00",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "0",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:00",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "98",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:04",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "28",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:04",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "15",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:05",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "16",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:05",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "22",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:06",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "40",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:06",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "17",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:08",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "15",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:08",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "19",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:09",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "31",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:10",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "18",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:36:12",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "3597",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:40:41",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "colorControl",
+        "attribute": "color",
+        "current_value": "#FCFF70",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:40:42",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "color",
+        "current_value": "#F8FFAF",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:48:06",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 12:48:21",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:01:29",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:01:57",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:51",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:55",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:55",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:56",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:02:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:03:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:03:10",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:04:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:05:00",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:05:03",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:05:17",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:07:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:07:28",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:11:07",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:11:27",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:28:56",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:28:59",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:04",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:04",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:04",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:04",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:05",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:06",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:16",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:29:17",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:40:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:44:28",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:44:29",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:44:44",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:44:50",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "12",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:44:50",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "51",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:44:54",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2732",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:00",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:00",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "100",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:04",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "60",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:07",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "67",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:07",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "51",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:08",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "6500",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:11",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "68",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:11",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "42",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:12",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "43",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:12",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "53",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:15",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "hue",
+        "current_value": "13",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:15",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "saturation",
+        "current_value": "57",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:16",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorTemperature",
+        "attribute": "colorTemperature",
+        "current_value": "2688",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:47:59",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:48:16",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:48:41",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:48:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:50:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:50:23",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:50:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:50:41",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "colorControl",
+        "attribute": "color",
+        "current_value": "#FFDF6D",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:50:41",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "colorControl",
+        "attribute": "color",
+        "current_value": "#FFDA7C",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:50:48",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:50:56",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:52:49",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:53:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:59:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 13:59:17",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:02:25",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:02:31",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:02:43",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:03:23",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:09:16",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:09:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:09:35",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:13:52",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:20",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:20",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:20",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:20",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:21",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:22",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:14:32",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:24:45",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:24:46",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:25:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:25:24",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:25:39",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:25:54",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:26:09",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:26:10",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:26:25",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:28:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:28:46",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:34:26",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:34:54",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:35:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:35:58",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "on",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:35:58",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:36:07",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:36:13",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:36:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:42:47",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:43:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:43:13",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:43:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:43:37",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:43:37",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:44:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:44:18",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:45:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:46:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:46:53",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:47:14",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 14:47:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:05:43",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:06:48",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:06:51",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:06:57",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:06:57",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:06:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:06:59",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:07:00",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:07:10",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:07:16",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:45:49",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:45:50",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:46:05",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:46:25",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:50:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:50:38",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:50:42",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 15:50:55",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:00:34",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "74",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:01:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:01:13",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:01:30",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:02:19",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:02:36",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:05:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:05:37",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:06:39",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:07:13",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:08:12",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:08:29",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:08:40",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:08:58",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:09:23",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:09:40",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:10:20",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:10:32",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:10:43",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:11:04",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:11:22",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:11:54",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:11:57",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:12:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:16:36",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:16:38",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:16:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:16:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:16:58",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:16:59",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:17:00",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:17:02",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:17:08",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:17:11",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:00",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:14",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:15",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:15",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:15",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:16",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:17",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:27",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:27",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:20:31",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "open",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:20:33",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:20:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:20:59",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:20:59",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:21:25",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:21:40",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:21:42",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:08",
+        "device_id": "3049ef50-8bde-45de-bbfb-ac4543fa57d4",
+        "device_name": "Hue bloom 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:08",
+        "device_id": "2d29fe34-e7eb-419c-a48e-859a01896761",
+        "device_name": "Hue lightstrip plus 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:08",
+        "device_id": "053e83ae-552b-4a64-9b2f-53ab6a7e5b5e",
+        "device_name": "Hue ambiance lamp 2",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:08",
+        "device_id": "a72209f0-4028-4c38-9634-daa69e9e6e41",
+        "device_name": "Round lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:08",
+        "device_id": "392d8dad-2048-4429-a246-f73d430e1661",
+        "device_name": "Hue lightstrip plus 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:08",
+        "device_id": "a60b29b9-4e30-4e35-80fd-38d430dc06a7",
+        "device_name": "Hue ambiance lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:08",
+        "device_id": "b62dc8ba-dff1-493c-b70a-267b4a2a7013",
+        "device_name": "Square lamp 1",
+        "capability": "switch",
+        "attribute": "switch",
+        "current_value": "off",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:35",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:35",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:36",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "contactSensor",
+        "attribute": "contact",
+        "current_value": "closed",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:36",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:38",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:38",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "threeAxis",
+        "attribute": "threeAxis",
+        "current_value": "Array",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:48",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "accelerationSensor",
+        "attribute": "acceleration",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:23:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:29:14",
+        "device_id": "f4ca5f3b-9f9f-45eb-8014-04a4ee262ec5",
+        "device_name": "Blase's Smartphone",
+        "capability": "presenceSensor",
+        "attribute": "presence",
+        "current_value": "not present",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 16:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 17:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 17:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 17:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 17:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 18:10:11",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 18:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 18:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 18:20:33",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 18:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 18:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 19:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 19:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 19:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 19:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 20:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 20:18:41",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 20:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 20:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:14:38",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:39:40",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "70",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:44:38",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 21:49:37",
+        "device_id": "98a0ad45-fdb9-4688-a838-e8830a564cfa",
+        "device_name": "Door contact sensor",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "70",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 22:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 22:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 22:26:57",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 22:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 22:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 23:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 23:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 23:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-06-14 23:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    }
+]

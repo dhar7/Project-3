@@ -1,0 +1,6 @@
+S0 -> S1 [label="hue_ambiance_lamp_2_level_b0 [0.0, 0.0] t[0.0, 0.0] p=0.33"]
+S0 -> S3 [label="hue_ambiance_lamp_2_level_b1 [0.0, 0.0] t[0.0, 0.0] p=0.67"]
+S1 -> S2 [label="hue_ambiance_lamp_2_level_b3 [2.0, 11.0] t[2.0, 17.0] p=1.0"]
+S3 -> S4 [label="hue_ambiance_lamp_2_level_b0 [3.0, 3.0] t[3.0, 3.0] p=0.5"]
+S3 -> S7 [label="hue_ambiance_lamp_2_level_b3 [10.0, 10.0] t[10.0, 10.0] p=0.5"]
+S4 -> S1 [label="hue_ambiance_lamp_2_level_b1 [0.0, 3.0] t[0.0, 6.0] p=1.0"]

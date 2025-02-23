@@ -1,0 +1,5 @@
+S0 -> S1 [label="gtyp_vgr.x_state_process_false [0.0, 0.0] t[0.0, 0.0] p=0.8"]
+S0 -> S6 [label="gtyp_vgr.x_state_process_true [0.0, 0.0] t[0.0, 0.0] p=0.2"]
+S1 -> S2 [label="gtyp_vgr.x_state_process_true [44.0, 1520.0] t[44.0, 3644.0] p=1.0"]
+S6 -> S7 [label="gtyp_vgr.x_state_process_false [142.0, 142.0] t[142.0, 142.0] p=1.0"]
+S2 -> S1 [label="gtyp_vgr.x_state_process_false [1632.0, 14352.0] t[1676.0, 14396.0] p=1.0"]

@@ -1,0 +1,2 @@
+S0 -> S1 [label="door_contact_sensor_acceleration_active [0.0, 60602.0] t[0.0, 83263.0] p=1.0"]
+S1 -> S0 [label="door_contact_sensor_acceleration_inactive [10.0, 8443.0] t[10.0, 83276.0] p=1.0"]

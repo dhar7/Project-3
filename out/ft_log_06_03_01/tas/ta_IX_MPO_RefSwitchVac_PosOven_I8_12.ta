@@ -1,0 +1,5 @@
+S0 -> S1 [label="ix_mpo_refswitchvac_posoven_i8_false [0.0, 0.0] t[0.0, 0.0] p=1.0"]
+S1 -> S2 [label="ix_mpo_refswitchvac_posoven_i8_true [58.0, 4086.0] t[58.0, 4086.0] p=1.0"]
+S2 -> S3 [label="ix_mpo_refswitchvac_posoven_i8_false [3.0, 10.0] t[65.0, 4096.0] p=1.0"]
+S3 -> S3 [label="ix_mpo_refswitchvac_posoven_i8_true [3590.0, 3590.0] t[3658.0, 3658.0] p=0.5"]
+S3 -> S3 [label="ix_mpo_refswitchvac_posoven_i8_false [10.0, 10.0] t[3668.0, 3668.0] p=0.5"]

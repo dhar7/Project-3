@@ -1,0 +1,3 @@
+S0 -> S1 [label="round_lamp_1_saturation_b1 [0.0, 0.0] t[0.0, 0.0] p=1.0"]
+S1 -> S2 [label="unknown_motion_inactive [6.0, 27.0] t[6.0, 554.0] p=1.0"]
+S2 -> S1 [label="unknown_motion_active [4.0, 194.0] t[13.0, 536.0] p=1.0"]

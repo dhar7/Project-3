@@ -1,0 +1,4 @@
+S0 -> S1 [label="ix_sld_pulsecounter_i1_false [0.0, 0.0] t[0.0, 0.0] p=0.75"]
+S0 -> S2 [label="ix_sld_pulsecounter_i1_true [0.0, 0.0] t[0.0, 0.0] p=0.25"]
+S1 -> S2 [label="ix_sld_pulsecounter_i1_true [92.0, 14309.0] t[92.0, 14396.0] p=1.0"]
+S2 -> S1 [label="ix_sld_pulsecounter_i1_false [3.0, 91.0] t[87.0, 4115.0] p=1.0"]

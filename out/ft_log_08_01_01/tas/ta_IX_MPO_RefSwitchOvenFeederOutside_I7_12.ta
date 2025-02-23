@@ -1,0 +1,2 @@
+S0 -> S1 [label="ix_mpo_refswitchovenfeederoutside_i7_false [0.0, 23.0] t[0.0, 4096.0] p=1.0"]
+S1 -> S0 [label="ix_mpo_refswitchovenfeederoutside_i7_true [5.0, 4012.0] t[30.0, 4086.0] p=1.0"]

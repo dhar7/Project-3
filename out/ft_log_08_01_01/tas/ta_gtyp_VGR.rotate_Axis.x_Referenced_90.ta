@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_vgr.rotate_axis.x_referenced_true [0.0, 13.0] t[0.0, 4099.0] p=1.0"]
+S1 -> S0 [label="gtyp_vgr.rotate_axis.x_referenced_false [62.0, 4021.0] t[62.0, 4096.0] p=1.0"]

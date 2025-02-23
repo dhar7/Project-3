@@ -1,0 +1,5 @@
+S0 -> S1 [label="blase's_smartphone_occupancy_occupied [0.0, 0.0] t[0.0, 0.0] p=0.82"]
+S0 -> S2 [label="blase's_smartphone_occupancy_unoccupied [0.0, 0.0] t[0.0, 0.0] p=0.18"]
+S1 -> S2 [label="blase's_smartphone_occupancy_unoccupied [52.0, 42140.0] t[52.0, 42140.0] p=1.0"]
+S2 -> S3 [label="blase's_smartphone_occupancy_occupied [978.0, 35928.0] t[1207.0, 36016.0] p=1.0"]
+S3 -> S4 [label="blase's_smartphone_occupancy_unoccupied [50.0, 37581.0] t[20775.0, 43589.0] p=1.0"]

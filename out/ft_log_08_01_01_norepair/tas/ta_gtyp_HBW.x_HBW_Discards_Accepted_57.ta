@@ -1,0 +1,5 @@
+S0 -> S1 [label="gtyp_hbw.x_hbw_discards_accepted_false [0.0, 0.0] t[0.0, 0.0] p=0.7"]
+S0 -> S2 [label="gtyp_hbw.x_hbw_discards_accepted_true [0.0, 0.0] t[0.0, 0.0] p=0.3"]
+S1 -> S2 [label="gtyp_hbw.x_hbw_discards_accepted_true [1614.0, 10014.0] t[1614.0, 10014.0] p=1.0"]
+S2 -> S3 [label="gtyp_hbw.x_hbw_discards_accepted_false [156.0, 160.0] t[156.0, 4184.0] p=1.0"]
+S3 -> S4 [label="gtyp_hbw.x_hbw_discards_accepted_true [3330.0, 14240.0] t[7514.0, 14396.0] p=1.0"]

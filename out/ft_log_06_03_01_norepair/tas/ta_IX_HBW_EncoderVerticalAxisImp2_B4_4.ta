@@ -1,0 +1,4 @@
+S0 -> S1 [label="ix_hbw_encoderverticalaxisimp2_b4_false [0.0, 0.0] t[0.0, 0.0] p=0.91"]
+S0 -> S13 [label="ix_hbw_encoderverticalaxisimp2_b4_true [0.0, 0.0] t[0.0, 0.0] p=0.09"]
+S1 -> S2 [label="ix_hbw_encoderverticalaxisimp2_b4_true [2.0, 13.0] t[3.0, 4081.0] p=1.0"]
+S2 -> S1 [label="ix_hbw_encoderverticalaxisimp2_b4_false [7.0, 13539.0] t[18.0, 13585.0] p=1.0"]

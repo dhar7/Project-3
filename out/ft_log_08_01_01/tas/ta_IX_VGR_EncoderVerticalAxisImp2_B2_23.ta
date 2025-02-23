@@ -1,0 +1,2 @@
+S0 -> S1 [label="ix_vgr_encoderverticalaxisimp2_b2_false [0.0, 14277.0] t[0.0, 14396.0] p=1.0"]
+S1 -> S0 [label="ix_vgr_encoderverticalaxisimp2_b2_true [10.0, 78.0] t[27.0, 4147.0] p=1.0"]

@@ -1,0 +1,6 @@
+S0 -> S1 [label="gtyp_vgr.rotate_axis.di_target_position_b0 [0.0, 0.0] t[0.0, 0.0] p=0.05"]
+S0 -> S2 [label="gtyp_vgr.rotate_axis.di_target_position_b10 [0.0, 0.0] t[0.0, 0.0] p=0.95"]
+S1 -> S2 [label="gtyp_vgr.rotate_axis.di_target_position_b10 [1496.0, 14277.0] t[1520.0, 14396.0] p=1.0"]
+S2 -> S4 [label="gtyp_vgr.rotate_axis.di_target_position_b6 [25.0, 31.0] t[25.0, 4055.0] p=1.0"]
+S4 -> S5 [label="gtyp_vgr.rotate_axis.di_target_position_b1 [70.0, 70.0] t[95.0, 4125.0] p=1.0"]
+S5 -> S1 [label="gtyp_vgr.rotate_axis.di_target_position_b0 [22.0, 29.0] t[118.0, 4147.0] p=1.0"]

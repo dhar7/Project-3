@@ -1,0 +1,2 @@
+S0 -> S1 [label="ix_vgr_encoderrotateimp1_b5_false [0.0, 3503.0] t[0.0, 3671.0] p=1.0"]
+S1 -> S0 [label="ix_vgr_encoderrotateimp1_b5_true [17.0, 75.0] t[30.0, 3697.0] p=1.0"]

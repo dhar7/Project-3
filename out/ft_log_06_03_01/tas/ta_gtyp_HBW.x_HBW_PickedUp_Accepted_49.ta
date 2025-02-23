@@ -1,0 +1,2 @@
+S0 -> S1 [label="gtyp_hbw.x_hbw_pickedup_accepted_false [0.0, 13560.0] t[0.0, 13585.0] p=1.0"]
+S1 -> S0 [label="gtyp_hbw.x_hbw_pickedup_accepted_true [25.0, 3471.0] t[25.0, 4055.0] p=1.0"]

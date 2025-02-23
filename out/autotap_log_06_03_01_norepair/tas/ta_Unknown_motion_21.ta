@@ -1,0 +1,3 @@
+S0 -> S1 [label="unknown_motion_active [0.0, 58565.0] t[0.0, 85065.0] p=1.0"]
+S1 -> S0 [label="unknown_motion_inactive [13.0, 128.0] t[17.0, 85082.0] p=0.99"]
+S1 -> S1 [label="unknown_motion_inactive_AND_unknown_motion_active [15.0, 50.0] t[1642.0, 63485.0] p=0.01"]

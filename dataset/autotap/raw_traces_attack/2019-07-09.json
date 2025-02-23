@@ -1,0 +1,1046 @@
+[
+    {
+        "time": "2019-07-09 00:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 00:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 00:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 00:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 00:51:00",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 01:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 01:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 01:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 01:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 01:45:48",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 02:02:57",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 02:15:24",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 02:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 02:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 02:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 02:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 03:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 03:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 03:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 03:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 04:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 04:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 04:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 04:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 05:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 05:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 05:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 05:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 06:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 06:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 06:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 06:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 07:18:42",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 07:18:42",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 07:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 07:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 08:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 08:18:41",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 08:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 08:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 09:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 09:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 09:22:00",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 09:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 09:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 10:09:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 10:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 10:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 10:34:34",
+        "device_id": "28d66169-bca6-451f-b564-382c458c7c68",
+        "device_name": "Unknown",
+        "capability": "presenceSensor",
+        "attribute": "presence",
+        "current_value": "present",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 10:34:34",
+        "device_id": "28d66169-bca6-451f-b564-382c458c7c68",
+        "device_name": "Unknown",
+        "capability": "occupancySensor",
+        "attribute": "occupancy",
+        "current_value": "occupied",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 10:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 10:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 11:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 11:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 11:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 11:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:03:37",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:08:36",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:13:35",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 12:49:18",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:44:24",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:44:27",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "active",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:44:48",
+        "device_id": "2525933b-00e7-4763-a2aa-15c4e56b605a",
+        "device_name": "BeSense Motion Detector",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:44:50",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "motionSensor",
+        "attribute": "motion",
+        "current_value": "inactive",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 13:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 14:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 14:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 14:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 14:45:29",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 15:08:03",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "74",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 15:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 15:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 15:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 15:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 16:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 16:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 16:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 16:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 17:02:39",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "73",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 17:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 17:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 17:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 17:45:29",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 18:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 18:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 18:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 18:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 19:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 19:18:41",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 19:42:09",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "72",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 19:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 19:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 20:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 20:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 20:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 20:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 21:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 21:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 21:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 21:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 22:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 22:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 22:36:31",
+        "device_id": "61f70bf5-9cb6-405b-bf1c-c877a156b5f2",
+        "device_name": "Unknown",
+        "capability": "temperatureMeasurement",
+        "attribute": "temperature",
+        "current_value": "71",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 22:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 22:45:29",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 23:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 23:18:40",
+        "device_id": "e9916142-d9fd-4c26-9650-520220ab84b2",
+        "device_name": "Kettle",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 23:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    },
+    {
+        "time": "2019-07-09 23:45:28",
+        "device_id": "fd204ba2-162c-40d8-a873-6aa121db7434",
+        "device_name": "Lamp",
+        "capability": "healthCheck",
+        "attribute": "DeviceWatch-DeviceStatus",
+        "current_value": "online",
+        "is_changed": "true"
+    }
+]

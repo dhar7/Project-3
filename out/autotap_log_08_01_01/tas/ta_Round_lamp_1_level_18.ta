@@ -1,0 +1,4 @@
+S0 -> S1 [label="round_lamp_1_level_b1 [0.0, 0.0] t[0.0, 0.0] p=1.0"]
+S1 -> S2 [label="round_lamp_1_level_b3 [4.0, 3856.0] t[4.0, 3856.0] p=1.0"]
+S2 -> S3 [label="round_lamp_1_level_b0 [17406.0, 17406.0] t[17413.0, 17413.0] p=1.0"]
+S3 -> S4 [label="round_lamp_1_level_b3 [22.0, 22.0] t[17435.0, 17435.0] p=1.0"]

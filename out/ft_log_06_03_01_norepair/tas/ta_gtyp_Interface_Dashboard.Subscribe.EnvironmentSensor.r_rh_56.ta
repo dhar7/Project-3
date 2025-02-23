@@ -1,0 +1,4 @@
+S0 -> S1 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_rh_b0 [0.0, 0.0] t[0.0, 0.0] p=0.78"]
+S0 -> S3 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_rh_b9 [0.0, 0.0] t[0.0, 0.0] p=0.22"]
+S1 -> S2 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_rh_b9 [807.0, 5577.0] t[807.0, 5577.0] p=1.0"]
+S3 -> S4 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_rh_b0 [4024.0, 4024.0] t[4024.0, 4024.0] p=1.0"]

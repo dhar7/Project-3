@@ -1,0 +1,8 @@
+S0 -> S1 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b0 [0.0, 0.0] t[0.0, 0.0] p=0.58"]
+S0 -> S4 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b10 [0.0, 0.0] t[0.0, 0.0] p=0.08"]
+S0 -> S6 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b9 [0.0, 0.0] t[0.0, 0.0] p=0.33"]
+S1 -> S2 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b10 [2792.0, 2792.0] t[2792.0, 2792.0] p=0.17"]
+S1 -> S3 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b9 [807.0, 5577.0] t[807.0, 5577.0] p=0.83"]
+S4 -> S5 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b9 [1520.0, 1520.0] t[1520.0, 1520.0] p=1.0"]
+S6 -> S7 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b10 [118.0, 118.0] t[118.0, 118.0] p=1.0"]
+S7 -> S8 [label="gtyp_interface_dashboard.subscribe.environmentsensor.r_t_b0 [1496.0, 3906.0] t[1614.0, 4024.0] p=1.0"]
